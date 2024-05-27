@@ -1,0 +1,256 @@
+2024-05-26 00:58:21,831 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-05-26 00:58:22,031 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-05-26 00:58:33,243 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 693754680 Bytes (1073741824)
+2024-05-26 00:58:35,593 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 721539896 Bytes (1073741824)
+2024-05-26 00:58:38,490 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 817486648 Bytes (1073741824)
+2024-05-26 00:58:47,591 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FSMC
+2024-05-26 00:58:47,592 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2024-05-26 00:58:47,592 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FREERTOS
+2024-05-26 00:58:47,592 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8
+2024-05-26 00:58:47,592 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-05-26 00:58:47,592 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-05-26 00:58:47,592 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: I2C
+2024-05-26 00:58:47,592 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: DCMI
+2024-05-26 00:58:47,592 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB_OTG_FS
+2024-05-26 00:58:47,592 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-05-26 00:58:47,592 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB_HOST
+2024-05-26 00:58:47,592 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-05-26 00:58:47,592 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: DMA
+2024-05-26 00:58:47,592 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-05-26 00:58:47,593 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: LIBJPEG
+2024-05-26 00:58:47,593 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FATFS
+2024-05-26 00:58:47,595 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.14.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.10.0.202311202037\\db\
+2024-05-26 00:58:47,600 [INFO] Argument:325 - Argument : hdmavalue: null
+2024-05-26 00:58:47,600 [INFO] Argument:327 - 	 sub Args: 
+2024-05-26 00:58:47,600 [INFO] Argument:325 - Argument : Instancevalue: DMA2_Stream1
+2024-05-26 00:58:47,600 [INFO] Argument:335 - Argument : Instancevalue: DMA2_Stream1
+2024-05-26 00:58:47,600 [INFO] Argument:325 - Argument : Initvalue: null
+2024-05-26 00:58:47,600 [INFO] Argument:327 - 	 sub Args: 
+2024-05-26 00:58:47,600 [INFO] Argument:325 - Argument : Channelvalue: DMA_CHANNEL_1
+2024-05-26 00:58:47,600 [INFO] Argument:335 - Argument : Channelvalue: DMA_CHANNEL_1
+2024-05-26 00:58:47,600 [INFO] Argument:325 - Argument : Directionvalue: DMA_PERIPH_TO_MEMORY
+2024-05-26 00:58:47,600 [INFO] Argument:335 - Argument : Directionvalue: DMA_PERIPH_TO_MEMORY
+2024-05-26 00:58:47,600 [INFO] Argument:325 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2024-05-26 00:58:47,600 [INFO] Argument:335 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2024-05-26 00:58:47,600 [INFO] Argument:325 - Argument : MemIncvalue: DMA_MINC_DISABLE
+2024-05-26 00:58:47,600 [INFO] Argument:335 - Argument : MemIncvalue: DMA_MINC_DISABLE
+2024-05-26 00:58:47,601 [INFO] Argument:325 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_WORD
+2024-05-26 00:58:47,601 [INFO] Argument:335 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_WORD
+2024-05-26 00:58:47,601 [INFO] Argument:325 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_WORD
+2024-05-26 00:58:47,601 [INFO] Argument:335 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_WORD
+2024-05-26 00:58:47,601 [INFO] Argument:325 - Argument : Modevalue: DMA_NORMAL
+2024-05-26 00:58:47,601 [INFO] Argument:335 - Argument : Modevalue: DMA_NORMAL
+2024-05-26 00:58:47,601 [INFO] Argument:325 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2024-05-26 00:58:47,601 [INFO] Argument:335 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2024-05-26 00:58:47,601 [INFO] Argument:325 - Argument : FIFOModevalue: DMA_FIFOMODE_DISABLE
+2024-05-26 00:58:47,601 [INFO] Argument:335 - Argument : FIFOModevalue: DMA_FIFOMODE_DISABLE
+2024-05-26 00:58:47,601 [INFO] Argument:325 - Argument : FIFOThresholdvalue: null
+2024-05-26 00:58:47,601 [INFO] Argument:335 - Argument : FIFOThresholdvalue: null
+2024-05-26 00:58:47,601 [INFO] Argument:325 - Argument : MemBurstvalue: null
+2024-05-26 00:58:47,601 [INFO] Argument:335 - Argument : MemBurstvalue: null
+2024-05-26 00:58:47,601 [INFO] Argument:325 - Argument : PeriphBurstvalue: null
+2024-05-26 00:58:47,601 [INFO] Argument:335 - Argument : PeriphBurstvalue: null
+2024-05-26 00:58:47,601 [INFO] Argument:325 - Argument : Lockvalue: null
+2024-05-26 00:58:47,601 [INFO] Argument:335 - Argument : Lockvalue: null
+2024-05-26 00:58:47,601 [INFO] Argument:325 - Argument : Statevalue: null
+2024-05-26 00:58:47,601 [INFO] Argument:335 - Argument : Statevalue: null
+2024-05-26 00:58:47,601 [INFO] Argument:325 - Argument : Parentvalue: null
+2024-05-26 00:58:47,601 [INFO] Argument:335 - Argument : Parentvalue: null
+2024-05-26 00:58:47,601 [INFO] Argument:325 - Argument : XferCpltCallbackvalue: null
+2024-05-26 00:58:47,601 [INFO] Argument:335 - Argument : XferCpltCallbackvalue: null
+2024-05-26 00:58:47,601 [INFO] Argument:325 - Argument : XferHalfCpltCallbackvalue: null
+2024-05-26 00:58:47,601 [INFO] Argument:335 - Argument : XferHalfCpltCallbackvalue: null
+2024-05-26 00:58:47,601 [INFO] Argument:325 - Argument : XferM1CpltCallbackvalue: null
+2024-05-26 00:58:47,601 [INFO] Argument:335 - Argument : XferM1CpltCallbackvalue: null
+2024-05-26 00:58:47,601 [INFO] Argument:325 - Argument : XferErrorCallbackvalue: null
+2024-05-26 00:58:47,601 [INFO] Argument:335 - Argument : XferErrorCallbackvalue: null
+2024-05-26 00:58:47,601 [INFO] Argument:325 - Argument : ErrorCodevalue: null
+2024-05-26 00:58:47,601 [INFO] Argument:335 - Argument : ErrorCodevalue: null
+2024-05-26 00:58:47,612 [WARN] IP:2119 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-05-26 00:58:47,612 [WARN] IP:2119 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-05-26 00:58:47,614 [WARN] IP:2119 - BooleanType not found: check if there is a RefParameter without a condition.
+2024-05-26 00:58:47,626 [INFO] Argument:325 - Argument : hdmavalue: null
+2024-05-26 00:58:47,626 [INFO] Argument:327 - 	 sub Args: 
+2024-05-26 00:58:47,626 [INFO] Argument:325 - Argument : Instancevalue: DMA1_Stream5
+2024-05-26 00:58:47,626 [INFO] Argument:335 - Argument : Instancevalue: DMA1_Stream5
+2024-05-26 00:58:47,626 [INFO] Argument:325 - Argument : Initvalue: null
+2024-05-26 00:58:47,626 [INFO] Argument:327 - 	 sub Args: 
+2024-05-26 00:58:47,626 [INFO] Argument:325 - Argument : Channelvalue: DMA_CHANNEL_4
+2024-05-26 00:58:47,626 [INFO] Argument:335 - Argument : Channelvalue: DMA_CHANNEL_4
+2024-05-26 00:58:47,626 [INFO] Argument:325 - Argument : Directionvalue: DMA_PERIPH_TO_MEMORY
+2024-05-26 00:58:47,626 [INFO] Argument:335 - Argument : Directionvalue: DMA_PERIPH_TO_MEMORY
+2024-05-26 00:58:47,626 [INFO] Argument:325 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2024-05-26 00:58:47,626 [INFO] Argument:335 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2024-05-26 00:58:47,626 [INFO] Argument:325 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2024-05-26 00:58:47,626 [INFO] Argument:335 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2024-05-26 00:58:47,626 [INFO] Argument:325 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_BYTE
+2024-05-26 00:58:47,626 [INFO] Argument:335 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_BYTE
+2024-05-26 00:58:47,626 [INFO] Argument:325 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_BYTE
+2024-05-26 00:58:47,626 [INFO] Argument:335 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_BYTE
+2024-05-26 00:58:47,626 [INFO] Argument:325 - Argument : Modevalue: DMA_CIRCULAR
+2024-05-26 00:58:47,626 [INFO] Argument:335 - Argument : Modevalue: DMA_CIRCULAR
+2024-05-26 00:58:47,626 [INFO] Argument:325 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2024-05-26 00:58:47,626 [INFO] Argument:335 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2024-05-26 00:58:47,626 [INFO] Argument:325 - Argument : FIFOModevalue: DMA_FIFOMODE_DISABLE
+2024-05-26 00:58:47,626 [INFO] Argument:335 - Argument : FIFOModevalue: DMA_FIFOMODE_DISABLE
+2024-05-26 00:58:47,626 [INFO] Argument:325 - Argument : FIFOThresholdvalue: null
+2024-05-26 00:58:47,626 [INFO] Argument:335 - Argument : FIFOThresholdvalue: null
+2024-05-26 00:58:47,626 [INFO] Argument:325 - Argument : MemBurstvalue: null
+2024-05-26 00:58:47,626 [INFO] Argument:335 - Argument : MemBurstvalue: null
+2024-05-26 00:58:47,627 [INFO] Argument:325 - Argument : PeriphBurstvalue: null
+2024-05-26 00:58:47,627 [INFO] Argument:335 - Argument : PeriphBurstvalue: null
+2024-05-26 00:58:47,627 [INFO] Argument:325 - Argument : Lockvalue: null
+2024-05-26 00:58:47,627 [INFO] Argument:335 - Argument : Lockvalue: null
+2024-05-26 00:58:47,627 [INFO] Argument:325 - Argument : Statevalue: null
+2024-05-26 00:58:47,627 [INFO] Argument:335 - Argument : Statevalue: null
+2024-05-26 00:58:47,627 [INFO] Argument:325 - Argument : Parentvalue: null
+2024-05-26 00:58:47,627 [INFO] Argument:335 - Argument : Parentvalue: null
+2024-05-26 00:58:47,627 [INFO] Argument:325 - Argument : XferCpltCallbackvalue: null
+2024-05-26 00:58:47,627 [INFO] Argument:335 - Argument : XferCpltCallbackvalue: null
+2024-05-26 00:58:47,627 [INFO] Argument:325 - Argument : XferHalfCpltCallbackvalue: null
+2024-05-26 00:58:47,627 [INFO] Argument:335 - Argument : XferHalfCpltCallbackvalue: null
+2024-05-26 00:58:47,627 [INFO] Argument:325 - Argument : XferM1CpltCallbackvalue: null
+2024-05-26 00:58:47,627 [INFO] Argument:335 - Argument : XferM1CpltCallbackvalue: null
+2024-05-26 00:58:47,627 [INFO] Argument:325 - Argument : XferErrorCallbackvalue: null
+2024-05-26 00:58:47,627 [INFO] Argument:335 - Argument : XferErrorCallbackvalue: null
+2024-05-26 00:58:47,627 [INFO] Argument:325 - Argument : ErrorCodevalue: null
+2024-05-26 00:58:47,627 [INFO] Argument:335 - Argument : ErrorCodevalue: null
+2024-05-26 00:58:47,923 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\license.tmp_save
+2024-05-26 00:58:48,137 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\license.tmp
+2024-05-26 00:58:48,255 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\gpio.tmp_save
+2024-05-26 00:58:48,574 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\gpio.tmp
+2024-05-26 00:58:48,763 [WARN] IPConfigManager:2946 - Warning: the RefConfig PWREx_EnableUSBVoltageDetector is not available in your config.xml file
+2024-05-26 00:58:48,782 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\usb_otg_fs_vars.tmp_save
+2024-05-26 00:58:48,988 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\usb_otg_fs_vars.tmp
+2024-05-26 00:58:49,007 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\usb_otg_fs_inc.tmp_save
+2024-05-26 00:58:49,106 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\usb_otg_fs_inc.tmp
+2024-05-26 00:58:49,150 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\usb_otg_fs_HalInit.tmp_save
+2024-05-26 00:58:49,354 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\usb_otg_fs_HalInit.tmp
+2024-05-26 00:58:49,380 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\usb_otg_fs_Msp.tmp_save
+2024-05-26 00:58:49,614 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\usb_otg_fs_Msp.tmp
+2024-05-26 00:58:50,499 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-05-26 00:58:50,515 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_inc.tmp_save
+2024-05-26 00:58:50,641 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_inc.tmp
+2024-05-26 00:58:50,656 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_vars.tmp_save
+2024-05-26 00:58:50,775 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_vars.tmp
+2024-05-26 00:58:50,793 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_pfp.tmp_save
+2024-05-26 00:58:50,910 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_pfp.tmp
+2024-05-26 00:58:50,926 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_obj_creat.tmp_save
+2024-05-26 00:58:51,052 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_obj_creat.tmp
+2024-05-26 00:58:51,072 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_kernelStart.tmp_save
+2024-05-26 00:58:51,226 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_kernelStart.tmp
+2024-05-26 00:58:51,254 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_default_thread.tmp_save
+2024-05-26 00:58:51,402 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_default_thread.tmp
+2024-05-26 00:58:51,428 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_threads.tmp_save
+2024-05-26 00:58:51,604 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_threads.tmp
+2024-05-26 00:58:51,616 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-05-26 00:58:51,636 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_HalInit.tmp_save
+2024-05-26 00:58:51,958 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_HalInit.tmp
+2024-05-26 00:58:51,976 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_vars.tmp_save
+2024-05-26 00:58:52,090 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_vars.tmp
+2024-05-26 00:58:52,107 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_ext_vars.tmp_save
+2024-05-26 00:58:52,225 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_ext_vars.tmp
+2024-05-26 00:58:52,247 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_inc.tmp_save
+2024-05-26 00:58:52,367 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_inc.tmp
+2024-05-26 00:58:52,371 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-05-26 00:58:52,390 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-05-26 00:58:52,409 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_inc.tmp_save
+2024-05-26 00:58:52,700 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_inc.tmp
+2024-05-26 00:58:52,709 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_vars.tmp_save
+2024-05-26 00:58:52,857 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_vars.tmp
+2024-05-26 00:58:52,878 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_pfp.tmp_save
+2024-05-26 00:58:52,984 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_pfp.tmp
+2024-05-26 00:58:53,012 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_obj_creat.tmp_save
+2024-05-26 00:58:53,126 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_obj_creat.tmp
+2024-05-26 00:58:53,137 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_kernelStart.tmp_save
+2024-05-26 00:58:53,245 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_kernelStart.tmp
+2024-05-26 00:58:53,255 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_default_thread.tmp_save
+2024-05-26 00:58:53,344 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_default_thread.tmp
+2024-05-26 00:58:53,355 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_threads.tmp_save
+2024-05-26 00:58:53,449 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_threads.tmp
+2024-05-26 00:58:53,494 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Inc\FreeRTOSConfig.h_save
+2024-05-26 00:58:53,791 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Inc\FreeRTOSConfig.h
+2024-05-26 00:58:53,843 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Src\freertos.c_save
+2024-05-26 00:58:54,010 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Src\freertos.c
+2024-05-26 00:58:54,087 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\dma.tmp_save
+2024-05-26 00:58:54,295 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\dma.tmp
+2024-05-26 00:58:54,318 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\dma_GV.tmp_save
+2024-05-26 00:58:54,447 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\dma_GV.tmp
+2024-05-26 00:58:54,454 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-05-26 00:58:54,471 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_HalInit.tmp_save
+2024-05-26 00:58:54,655 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_HalInit.tmp
+2024-05-26 00:58:54,667 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_vars.tmp_save
+2024-05-26 00:58:54,760 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_vars.tmp
+2024-05-26 00:58:54,768 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_ext_vars.tmp_save
+2024-05-26 00:58:54,858 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_ext_vars.tmp
+2024-05-26 00:58:54,867 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_inc.tmp_save
+2024-05-26 00:58:54,955 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_inc.tmp
+2024-05-26 00:58:55,012 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\FATFS\Target\ffconf.h_save
+2024-05-26 00:58:55,273 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\FATFS\Target\ffconf.h
+2024-05-26 00:58:55,325 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\FATFS\Target\user_diskio.c_save
+2024-05-26 00:58:55,608 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\FATFS\Target\user_diskio.c
+2024-05-26 00:58:55,685 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\FATFS\Target\user_diskio.h_save
+2024-05-26 00:58:55,843 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\FATFS\Target\user_diskio.h
+2024-05-26 00:58:55,899 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\FATFS\App\fatfs.c_save
+2024-05-26 00:58:56,210 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\FATFS\App\fatfs.c
+2024-05-26 00:58:56,265 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\FATFS\App\fatfs.h_save
+2024-05-26 00:58:56,569 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\FATFS\App\fatfs.h
+2024-05-26 00:58:56,657 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\mx_fsmc_HC.tmp_save
+2024-05-26 00:58:57,030 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\mx_fsmc_HC.tmp
+2024-05-26 00:58:57,075 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\mx_fsmc_GV.tmp_save
+2024-05-26 00:58:57,402 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\mx_fsmc_GV.tmp
+2024-05-26 00:58:57,468 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\mx_fsmc_MSP.tmp_save
+2024-05-26 00:58:57,902 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\mx_fsmc_MSP.tmp
+2024-05-26 00:58:57,928 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-05-26 00:58:58,039 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\LIBJPEG\App\libjpeg.c_save
+2024-05-26 00:58:58,626 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\LIBJPEG\App\libjpeg.c
+2024-05-26 00:58:58,887 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\LIBJPEG\App\libjpeg.h_save
+2024-05-26 00:58:59,859 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\LIBJPEG\App\libjpeg.h
+2024-05-26 00:59:00,387 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\LIBJPEG\Target\jconfig.h_save
+2024-05-26 00:59:01,400 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\LIBJPEG\Target\jconfig.h
+2024-05-26 00:59:01,522 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\LIBJPEG\Target\jmorecfg.h_save
+2024-05-26 00:59:02,229 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\LIBJPEG\Target\jmorecfg.h
+2024-05-26 00:59:02,381 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\LIBJPEG\Target\jdata_conf.h_save
+2024-05-26 00:59:04,599 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\LIBJPEG\Target\jdata_conf.h
+2024-05-26 00:59:04,772 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\LIBJPEG\Target\jdata_conf.c_save
+2024-05-26 00:59:05,362 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\LIBJPEG\Target\jdata_conf.c
+2024-05-26 00:59:05,648 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\USB_HOST\App\usb_host.c_save
+2024-05-26 00:59:06,385 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\USB_HOST\App\usb_host.c
+2024-05-26 00:59:06,532 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\USB_HOST\App\usb_host.h_save
+2024-05-26 00:59:07,188 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\USB_HOST\App\usb_host.h
+2024-05-26 00:59:07,370 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\USB_HOST\Target\usbh_conf.h_save
+2024-05-26 00:59:08,160 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\USB_HOST\Target\usbh_conf.h
+2024-05-26 00:59:08,302 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\USB_HOST\Target\usbh_conf.c_save
+2024-05-26 00:59:08,923 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\USB_HOST\Target\usbh_conf.c
+2024-05-26 00:59:09,021 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\USB_HOST\Target\usbh_platform.c_save
+2024-05-26 00:59:09,451 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\USB_HOST\Target\usbh_platform.c
+2024-05-26 00:59:09,538 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\USB_HOST\Target\usbh_platform.h_save
+2024-05-26 00:59:09,913 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\USB_HOST\Target\usbh_platform.h
+2024-05-26 00:59:10,216 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Src\stm32f4xx_it.c_save
+2024-05-26 00:59:11,775 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Src\stm32f4xx_it.c
+2024-05-26 00:59:11,871 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Inc\stm32f4xx_it.h_save
+2024-05-26 00:59:12,569 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Inc\stm32f4xx_it.h
+2024-05-26 00:59:12,744 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\mx_fsmc_HC.tmp_save
+2024-05-26 00:59:13,645 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\mx_fsmc_HC.tmp
+2024-05-26 00:59:13,684 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\mx_fsmc_GV.tmp_save
+2024-05-26 00:59:14,202 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\mx_fsmc_GV.tmp
+2024-05-26 00:59:14,382 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\mx_fsmc_MSP.tmp_save
+2024-05-26 00:59:14,864 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\mx_fsmc_MSP.tmp
+2024-05-26 00:59:14,989 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Src\stm32f4xx_hal_msp.c_save
+2024-05-26 00:59:16,201 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Src\stm32f4xx_hal_msp.c
+2024-05-26 00:59:16,328 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\system.tmp_save
+2024-05-26 00:59:16,911 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\system.tmp
+2024-05-26 00:59:17,163 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-05-26 00:59:19,040 [INFO] CodeEngine:335 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Inc\stm32f4xx_hal_conf.h
+2024-05-26 00:59:19,710 [WARN] IPConfigManager:3440 - IP not found : TIM
+2024-05-26 00:59:19,713 [WARN] CodeGenerator:3939 - IP not found : null
+2024-05-26 00:59:20,439 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Inc\main.h_save
+2024-05-26 00:59:21,178 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Inc\main.h
+2024-05-26 00:59:21,314 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Src\main.c_save
+2024-05-26 00:59:22,305 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Src\main.c
+2024-05-26 00:59:31,631 [INFO] ProjectBuilder:3076 - Time for Copy HAL[1] : 4748mS.
+2024-05-26 00:59:31,759 [INFO] ProjectBuilder:4485 - Project Generator version: 4.2.0-B44
+2024-05-26 00:59:34,908 [INFO] ConfigFileManager:1495 - The Die is : DIE413
+2024-05-26 01:00:03,761 [INFO] ProjectBuilder:4747 - Time for Generating toolchain IDE Files: 32002mS.
+2024-05-26 01:00:03,766 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 3mS.
+2024-05-26 01:00:04,179 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.

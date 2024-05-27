@@ -1,0 +1,1449 @@
+2024-05-26 06:43:12,420 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-05-26 06:43:12,460 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-05-26 06:43:12,461 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-05-26 06:56:58,653 [INFO] Gpio:277 - dependency for GPIO [DCMI, FSMC, I2C2, RCC, SPI1, SYS, TIM5, USART2, USB_OTG_FS]
+2024-05-26 07:06:46,076 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-05-26 07:11:21,449 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-05-26 07:11:23,814 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 738962816 Bytes (1073741824)
+2024-05-26 07:11:25,594 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 762031488 Bytes (1073741824)
+2024-05-26 07:11:27,381 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 802399616 Bytes (1073741824)
+2024-05-26 07:11:39,323 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FSMC
+2024-05-26 07:11:39,323 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2024-05-26 07:11:39,323 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FREERTOS
+2024-05-26 07:11:39,323 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8
+2024-05-26 07:11:39,323 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-05-26 07:11:39,323 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-05-26 07:11:39,323 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: I2C
+2024-05-26 07:11:39,323 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: DCMI
+2024-05-26 07:11:39,323 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB_OTG_FS
+2024-05-26 07:11:39,323 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-05-26 07:11:39,323 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB_HOST
+2024-05-26 07:11:39,323 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-05-26 07:11:39,323 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: DMA
+2024-05-26 07:11:39,325 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-05-26 07:11:39,325 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: LIBJPEG
+2024-05-26 07:11:39,325 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FATFS
+2024-05-26 07:11:39,326 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.14.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.10.0.202311202037\\db\
+2024-05-26 07:11:39,331 [INFO] Argument:325 - Argument : hdmavalue: null
+2024-05-26 07:11:39,331 [INFO] Argument:327 - 	 sub Args: 
+2024-05-26 07:11:39,331 [INFO] Argument:325 - Argument : Instancevalue: DMA2_Stream1
+2024-05-26 07:11:39,331 [INFO] Argument:335 - Argument : Instancevalue: DMA2_Stream1
+2024-05-26 07:11:39,331 [INFO] Argument:325 - Argument : Initvalue: null
+2024-05-26 07:11:39,331 [INFO] Argument:327 - 	 sub Args: 
+2024-05-26 07:11:39,331 [INFO] Argument:325 - Argument : Channelvalue: DMA_CHANNEL_1
+2024-05-26 07:11:39,331 [INFO] Argument:335 - Argument : Channelvalue: DMA_CHANNEL_1
+2024-05-26 07:11:39,331 [INFO] Argument:325 - Argument : Directionvalue: DMA_PERIPH_TO_MEMORY
+2024-05-26 07:11:39,331 [INFO] Argument:335 - Argument : Directionvalue: DMA_PERIPH_TO_MEMORY
+2024-05-26 07:11:39,331 [INFO] Argument:325 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2024-05-26 07:11:39,331 [INFO] Argument:335 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2024-05-26 07:11:39,331 [INFO] Argument:325 - Argument : MemIncvalue: DMA_MINC_DISABLE
+2024-05-26 07:11:39,331 [INFO] Argument:335 - Argument : MemIncvalue: DMA_MINC_DISABLE
+2024-05-26 07:11:39,332 [INFO] Argument:325 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_WORD
+2024-05-26 07:11:39,332 [INFO] Argument:335 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_WORD
+2024-05-26 07:11:39,332 [INFO] Argument:325 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_WORD
+2024-05-26 07:11:39,332 [INFO] Argument:335 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_WORD
+2024-05-26 07:11:39,332 [INFO] Argument:325 - Argument : Modevalue: DMA_NORMAL
+2024-05-26 07:11:39,332 [INFO] Argument:335 - Argument : Modevalue: DMA_NORMAL
+2024-05-26 07:11:39,332 [INFO] Argument:325 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2024-05-26 07:11:39,332 [INFO] Argument:335 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2024-05-26 07:11:39,332 [INFO] Argument:325 - Argument : FIFOModevalue: DMA_FIFOMODE_DISABLE
+2024-05-26 07:11:39,332 [INFO] Argument:335 - Argument : FIFOModevalue: DMA_FIFOMODE_DISABLE
+2024-05-26 07:11:39,332 [INFO] Argument:325 - Argument : FIFOThresholdvalue: null
+2024-05-26 07:11:39,332 [INFO] Argument:335 - Argument : FIFOThresholdvalue: null
+2024-05-26 07:11:39,332 [INFO] Argument:325 - Argument : MemBurstvalue: null
+2024-05-26 07:11:39,332 [INFO] Argument:335 - Argument : MemBurstvalue: null
+2024-05-26 07:11:39,332 [INFO] Argument:325 - Argument : PeriphBurstvalue: null
+2024-05-26 07:11:39,332 [INFO] Argument:335 - Argument : PeriphBurstvalue: null
+2024-05-26 07:11:39,332 [INFO] Argument:325 - Argument : Lockvalue: null
+2024-05-26 07:11:39,332 [INFO] Argument:335 - Argument : Lockvalue: null
+2024-05-26 07:11:39,332 [INFO] Argument:325 - Argument : Statevalue: null
+2024-05-26 07:11:39,332 [INFO] Argument:335 - Argument : Statevalue: null
+2024-05-26 07:11:39,332 [INFO] Argument:325 - Argument : Parentvalue: null
+2024-05-26 07:11:39,332 [INFO] Argument:335 - Argument : Parentvalue: null
+2024-05-26 07:11:39,332 [INFO] Argument:325 - Argument : XferCpltCallbackvalue: null
+2024-05-26 07:11:39,332 [INFO] Argument:335 - Argument : XferCpltCallbackvalue: null
+2024-05-26 07:11:39,332 [INFO] Argument:325 - Argument : XferHalfCpltCallbackvalue: null
+2024-05-26 07:11:39,332 [INFO] Argument:335 - Argument : XferHalfCpltCallbackvalue: null
+2024-05-26 07:11:39,332 [INFO] Argument:325 - Argument : XferM1CpltCallbackvalue: null
+2024-05-26 07:11:39,332 [INFO] Argument:335 - Argument : XferM1CpltCallbackvalue: null
+2024-05-26 07:11:39,332 [INFO] Argument:325 - Argument : XferErrorCallbackvalue: null
+2024-05-26 07:11:39,332 [INFO] Argument:335 - Argument : XferErrorCallbackvalue: null
+2024-05-26 07:11:39,332 [INFO] Argument:325 - Argument : ErrorCodevalue: null
+2024-05-26 07:11:39,332 [INFO] Argument:335 - Argument : ErrorCodevalue: null
+2024-05-26 07:11:39,345 [WARN] IP:2119 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-05-26 07:11:39,345 [WARN] IP:2119 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-05-26 07:11:39,346 [WARN] IP:2119 - BooleanType not found: check if there is a RefParameter without a condition.
+2024-05-26 07:11:39,357 [INFO] Argument:325 - Argument : hdmavalue: null
+2024-05-26 07:11:39,357 [INFO] Argument:327 - 	 sub Args: 
+2024-05-26 07:11:39,357 [INFO] Argument:325 - Argument : Instancevalue: DMA1_Stream5
+2024-05-26 07:11:39,357 [INFO] Argument:335 - Argument : Instancevalue: DMA1_Stream5
+2024-05-26 07:11:39,357 [INFO] Argument:325 - Argument : Initvalue: null
+2024-05-26 07:11:39,357 [INFO] Argument:327 - 	 sub Args: 
+2024-05-26 07:11:39,357 [INFO] Argument:325 - Argument : Channelvalue: DMA_CHANNEL_4
+2024-05-26 07:11:39,357 [INFO] Argument:335 - Argument : Channelvalue: DMA_CHANNEL_4
+2024-05-26 07:11:39,357 [INFO] Argument:325 - Argument : Directionvalue: DMA_PERIPH_TO_MEMORY
+2024-05-26 07:11:39,357 [INFO] Argument:335 - Argument : Directionvalue: DMA_PERIPH_TO_MEMORY
+2024-05-26 07:11:39,357 [INFO] Argument:325 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2024-05-26 07:11:39,357 [INFO] Argument:335 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2024-05-26 07:11:39,357 [INFO] Argument:325 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2024-05-26 07:11:39,357 [INFO] Argument:335 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2024-05-26 07:11:39,357 [INFO] Argument:325 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_BYTE
+2024-05-26 07:11:39,357 [INFO] Argument:335 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_BYTE
+2024-05-26 07:11:39,357 [INFO] Argument:325 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_BYTE
+2024-05-26 07:11:39,357 [INFO] Argument:335 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_BYTE
+2024-05-26 07:11:39,357 [INFO] Argument:325 - Argument : Modevalue: DMA_CIRCULAR
+2024-05-26 07:11:39,357 [INFO] Argument:335 - Argument : Modevalue: DMA_CIRCULAR
+2024-05-26 07:11:39,357 [INFO] Argument:325 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2024-05-26 07:11:39,357 [INFO] Argument:335 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2024-05-26 07:11:39,357 [INFO] Argument:325 - Argument : FIFOModevalue: DMA_FIFOMODE_DISABLE
+2024-05-26 07:11:39,357 [INFO] Argument:335 - Argument : FIFOModevalue: DMA_FIFOMODE_DISABLE
+2024-05-26 07:11:39,357 [INFO] Argument:325 - Argument : FIFOThresholdvalue: null
+2024-05-26 07:11:39,357 [INFO] Argument:335 - Argument : FIFOThresholdvalue: null
+2024-05-26 07:11:39,357 [INFO] Argument:325 - Argument : MemBurstvalue: null
+2024-05-26 07:11:39,357 [INFO] Argument:335 - Argument : MemBurstvalue: null
+2024-05-26 07:11:39,357 [INFO] Argument:325 - Argument : PeriphBurstvalue: null
+2024-05-26 07:11:39,357 [INFO] Argument:335 - Argument : PeriphBurstvalue: null
+2024-05-26 07:11:39,357 [INFO] Argument:325 - Argument : Lockvalue: null
+2024-05-26 07:11:39,357 [INFO] Argument:335 - Argument : Lockvalue: null
+2024-05-26 07:11:39,357 [INFO] Argument:325 - Argument : Statevalue: null
+2024-05-26 07:11:39,357 [INFO] Argument:335 - Argument : Statevalue: null
+2024-05-26 07:11:39,357 [INFO] Argument:325 - Argument : Parentvalue: null
+2024-05-26 07:11:39,357 [INFO] Argument:335 - Argument : Parentvalue: null
+2024-05-26 07:11:39,357 [INFO] Argument:325 - Argument : XferCpltCallbackvalue: null
+2024-05-26 07:11:39,357 [INFO] Argument:335 - Argument : XferCpltCallbackvalue: null
+2024-05-26 07:11:39,357 [INFO] Argument:325 - Argument : XferHalfCpltCallbackvalue: null
+2024-05-26 07:11:39,357 [INFO] Argument:335 - Argument : XferHalfCpltCallbackvalue: null
+2024-05-26 07:11:39,357 [INFO] Argument:325 - Argument : XferM1CpltCallbackvalue: null
+2024-05-26 07:11:39,357 [INFO] Argument:335 - Argument : XferM1CpltCallbackvalue: null
+2024-05-26 07:11:39,357 [INFO] Argument:325 - Argument : XferErrorCallbackvalue: null
+2024-05-26 07:11:39,357 [INFO] Argument:335 - Argument : XferErrorCallbackvalue: null
+2024-05-26 07:11:39,357 [INFO] Argument:325 - Argument : ErrorCodevalue: null
+2024-05-26 07:11:39,357 [INFO] Argument:335 - Argument : ErrorCodevalue: null
+2024-05-26 07:11:39,512 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\license.tmp_save
+2024-05-26 07:11:39,605 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\license.tmp
+2024-05-26 07:11:39,654 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\gpio.tmp_save
+2024-05-26 07:11:39,830 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\gpio.tmp
+2024-05-26 07:11:39,964 [WARN] IPConfigManager:2946 - Warning: the RefConfig PWREx_EnableUSBVoltageDetector is not available in your config.xml file
+2024-05-26 07:11:39,986 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\usb_otg_fs_vars.tmp_save
+2024-05-26 07:11:40,138 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\usb_otg_fs_vars.tmp
+2024-05-26 07:11:40,152 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\usb_otg_fs_inc.tmp_save
+2024-05-26 07:11:40,261 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\usb_otg_fs_inc.tmp
+2024-05-26 07:11:40,290 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\usb_otg_fs_HalInit.tmp_save
+2024-05-26 07:11:40,471 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\usb_otg_fs_HalInit.tmp
+2024-05-26 07:11:40,493 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\usb_otg_fs_Msp.tmp_save
+2024-05-26 07:11:40,698 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\usb_otg_fs_Msp.tmp
+2024-05-26 07:11:46,151 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-05-26 07:11:46,229 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_inc.tmp_save
+2024-05-26 07:11:46,831 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_inc.tmp
+2024-05-26 07:11:46,895 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_vars.tmp_save
+2024-05-26 07:11:47,438 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_vars.tmp
+2024-05-26 07:11:47,504 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_pfp.tmp_save
+2024-05-26 07:11:48,058 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_pfp.tmp
+2024-05-26 07:11:48,125 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_obj_creat.tmp_save
+2024-05-26 07:11:48,602 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_obj_creat.tmp
+2024-05-26 07:11:48,677 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_kernelStart.tmp_save
+2024-05-26 07:11:49,159 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_kernelStart.tmp
+2024-05-26 07:11:49,219 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_default_thread.tmp_save
+2024-05-26 07:11:49,598 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_default_thread.tmp
+2024-05-26 07:11:49,640 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_threads.tmp_save
+2024-05-26 07:11:49,943 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_threads.tmp
+2024-05-26 07:11:49,969 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-05-26 07:11:50,016 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_HalInit.tmp_save
+2024-05-26 07:11:50,404 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_HalInit.tmp
+2024-05-26 07:11:50,457 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_vars.tmp_save
+2024-05-26 07:11:50,759 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_vars.tmp
+2024-05-26 07:11:50,794 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_ext_vars.tmp_save
+2024-05-26 07:11:51,065 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_ext_vars.tmp
+2024-05-26 07:11:51,094 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_inc.tmp_save
+2024-05-26 07:11:51,350 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_inc.tmp
+2024-05-26 07:11:51,360 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-05-26 07:11:51,415 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-05-26 07:11:51,448 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_inc.tmp_save
+2024-05-26 07:11:51,861 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_inc.tmp
+2024-05-26 07:11:51,890 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_vars.tmp_save
+2024-05-26 07:11:52,183 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_vars.tmp
+2024-05-26 07:11:52,201 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_pfp.tmp_save
+2024-05-26 07:11:52,518 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_pfp.tmp
+2024-05-26 07:11:52,567 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_obj_creat.tmp_save
+2024-05-26 07:11:52,930 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_obj_creat.tmp
+2024-05-26 07:11:52,957 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_kernelStart.tmp_save
+2024-05-26 07:11:53,272 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_kernelStart.tmp
+2024-05-26 07:11:53,294 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_default_thread.tmp_save
+2024-05-26 07:11:53,611 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_default_thread.tmp
+2024-05-26 07:11:53,631 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_threads.tmp_save
+2024-05-26 07:11:53,866 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_threads.tmp
+2024-05-26 07:11:53,953 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Inc\FreeRTOSConfig.h_save
+2024-05-26 07:11:54,592 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Inc\FreeRTOSConfig.h
+2024-05-26 07:11:54,848 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Src\freertos.c_save
+2024-05-26 07:11:55,418 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Src\freertos.c
+2024-05-26 07:11:55,699 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\dma.tmp_save
+2024-05-26 07:11:56,347 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\dma.tmp
+2024-05-26 07:11:56,398 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\dma_GV.tmp_save
+2024-05-26 07:11:56,764 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\dma_GV.tmp
+2024-05-26 07:11:56,794 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-05-26 07:11:56,844 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_HalInit.tmp_save
+2024-05-26 07:11:57,377 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_HalInit.tmp
+2024-05-26 07:11:57,403 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_vars.tmp_save
+2024-05-26 07:11:57,718 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_vars.tmp
+2024-05-26 07:11:57,738 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_ext_vars.tmp_save
+2024-05-26 07:11:58,083 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_ext_vars.tmp
+2024-05-26 07:11:58,104 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_inc.tmp_save
+2024-05-26 07:11:58,816 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_inc.tmp
+2024-05-26 07:11:58,932 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\FATFS\Target\ffconf.h_save
+2024-05-26 07:11:59,650 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\FATFS\Target\ffconf.h
+2024-05-26 07:11:59,774 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\FATFS\Target\user_diskio.c_save
+2024-05-26 07:12:00,182 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\FATFS\Target\user_diskio.c
+2024-05-26 07:12:00,329 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\FATFS\Target\user_diskio.h_save
+2024-05-26 07:12:00,942 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\FATFS\Target\user_diskio.h
+2024-05-26 07:12:01,045 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\FATFS\App\fatfs.c_save
+2024-05-26 07:12:01,506 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\FATFS\App\fatfs.c
+2024-05-26 07:12:01,579 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\FATFS\App\fatfs.h_save
+2024-05-26 07:12:02,035 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\FATFS\App\fatfs.h
+2024-05-26 07:12:02,144 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\mx_fsmc_HC.tmp_save
+2024-05-26 07:12:02,639 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\mx_fsmc_HC.tmp
+2024-05-26 07:12:02,675 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\mx_fsmc_GV.tmp_save
+2024-05-26 07:12:03,086 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\mx_fsmc_GV.tmp
+2024-05-26 07:12:03,179 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\mx_fsmc_MSP.tmp_save
+2024-05-26 07:12:03,655 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\mx_fsmc_MSP.tmp
+2024-05-26 07:12:03,676 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-05-26 07:12:03,802 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\LIBJPEG\App\libjpeg.c_save
+2024-05-26 07:12:04,226 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\LIBJPEG\App\libjpeg.c
+2024-05-26 07:12:04,315 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\LIBJPEG\App\libjpeg.h_save
+2024-05-26 07:12:04,784 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\LIBJPEG\App\libjpeg.h
+2024-05-26 07:12:04,884 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\LIBJPEG\Target\jconfig.h_save
+2024-05-26 07:12:05,352 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\LIBJPEG\Target\jconfig.h
+2024-05-26 07:12:05,528 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\LIBJPEG\Target\jmorecfg.h_save
+2024-05-26 07:12:06,651 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\LIBJPEG\Target\jmorecfg.h
+2024-05-26 07:12:06,715 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\LIBJPEG\Target\jdata_conf.h_save
+2024-05-26 07:12:07,142 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\LIBJPEG\Target\jdata_conf.h
+2024-05-26 07:12:07,232 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\LIBJPEG\Target\jdata_conf.c_save
+2024-05-26 07:12:07,864 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\LIBJPEG\Target\jdata_conf.c
+2024-05-26 07:12:08,035 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\USB_HOST\App\usb_host.c_save
+2024-05-26 07:12:09,422 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\USB_HOST\App\usb_host.c
+2024-05-26 07:12:09,572 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\USB_HOST\App\usb_host.h_save
+2024-05-26 07:12:10,096 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\USB_HOST\App\usb_host.h
+2024-05-26 07:12:10,194 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\USB_HOST\Target\usbh_conf.h_save
+2024-05-26 07:12:10,602 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\USB_HOST\Target\usbh_conf.h
+2024-05-26 07:12:10,678 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\USB_HOST\Target\usbh_conf.c_save
+2024-05-26 07:12:11,184 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\USB_HOST\Target\usbh_conf.c
+2024-05-26 07:12:11,296 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\USB_HOST\Target\usbh_platform.c_save
+2024-05-26 07:12:11,808 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\USB_HOST\Target\usbh_platform.c
+2024-05-26 07:12:11,907 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\USB_HOST\Target\usbh_platform.h_save
+2024-05-26 07:12:12,393 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\USB_HOST\Target\usbh_platform.h
+2024-05-26 07:12:12,549 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Src\stm32f4xx_it.c_save
+2024-05-26 07:12:13,265 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Src\stm32f4xx_it.c
+2024-05-26 07:12:13,344 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Inc\stm32f4xx_it.h_save
+2024-05-26 07:12:13,642 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Inc\stm32f4xx_it.h
+2024-05-26 07:12:13,749 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\mx_fsmc_HC.tmp_save
+2024-05-26 07:12:14,062 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\mx_fsmc_HC.tmp
+2024-05-26 07:12:14,080 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\mx_fsmc_GV.tmp_save
+2024-05-26 07:12:14,356 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\mx_fsmc_GV.tmp
+2024-05-26 07:12:14,431 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\mx_fsmc_MSP.tmp_save
+2024-05-26 07:12:14,698 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\mx_fsmc_MSP.tmp
+2024-05-26 07:12:14,841 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Src\stm32f4xx_hal_msp.c_save
+2024-05-26 07:12:15,375 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Src\stm32f4xx_hal_msp.c
+2024-05-26 07:12:15,411 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\system.tmp_save
+2024-05-26 07:12:15,663 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\system.tmp
+2024-05-26 07:12:15,758 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-05-26 07:12:16,246 [INFO] CodeEngine:335 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Inc\stm32f4xx_hal_conf.h
+2024-05-26 07:12:16,373 [WARN] IPConfigManager:3440 - IP not found : TIM
+2024-05-26 07:12:16,376 [WARN] CodeGenerator:3939 - IP not found : null
+2024-05-26 07:12:16,468 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Inc\main.h_save
+2024-05-26 07:12:16,842 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Inc\main.h
+2024-05-26 07:12:16,902 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Src\main.c_save
+2024-05-26 07:12:17,436 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Src\main.c
+2024-05-26 07:12:22,466 [INFO] ProjectBuilder:3076 - Time for Copy HAL[1] : 2822mS.
+2024-05-26 07:12:22,637 [INFO] ProjectBuilder:4485 - Project Generator version: 4.2.0-B44
+2024-05-26 07:12:25,706 [INFO] ConfigFileManager:1495 - The Die is : DIE413
+2024-05-26 07:12:39,378 [INFO] ProjectBuilder:4747 - Time for Generating toolchain IDE Files: 16740mS.
+2024-05-26 07:12:39,381 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 1mS.
+2024-05-26 07:12:39,460 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.
+2024-05-26 07:15:28,563 [WARN] IP:2119 - BooleanType not found: check if there is a RefParameter without a condition.
+2024-05-26 07:16:56,212 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_AUDIO_FS = false
+2024-05-26 07:16:56,212 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_AUDIO_FS = false
+2024-05-26 07:16:56,212 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_AUDIO_HS = false
+2024-05-26 07:16:56,212 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_AUDIO_HS = false
+2024-05-26 07:16:56,212 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-05-26 07:16:56,212 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-05-26 07:16:56,212 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-05-26 07:16:56,212 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_CDC_HS = false
+2024-05-26 07:16:56,212 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_CDC_HS = false
+2024-05-26 07:16:56,212 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_HID_FS = false
+2024-05-26 07:16:56,212 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_HID_FS = false
+2024-05-26 07:16:56,212 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_HID_HS = false
+2024-05-26 07:16:56,212 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_HID_HS = false
+2024-05-26 07:16:56,212 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MSC_FS = false
+2024-05-26 07:16:56,212 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MSC_FS = false
+2024-05-26 07:16:56,212 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MSC_HS = false
+2024-05-26 07:16:56,212 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MSC_HS = false
+2024-05-26 07:16:56,212 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : ALL_SW_VBUS_DRIVE_FS = false
+2024-05-26 07:16:56,212 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : ALL_SW_VBUS_DRIVE_FS = false
+2024-05-26 07:16:56,212 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : ALL_SW_VBUS_DRIVE_HS = false
+2024-05-26 07:16:56,212 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : ALL_SW_VBUS_DRIVE_HS = false
+2024-05-26 07:16:56,212 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MTP_FS = false
+2024-05-26 07:16:56,212 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MTP_FS = false
+2024-05-26 07:16:56,212 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MTP_HS = false
+2024-05-26 07:16:56,212 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MTP_HS = false
+2024-05-26 07:17:25,127 [ERROR] RtosPanel:558 - Can not restore the selected Tab for FREERTOS(A reason can be that the tab is no more available.)
+2024-05-26 07:17:30,520 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_AUDIO_FS = false
+2024-05-26 07:17:30,520 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_AUDIO_FS = false
+2024-05-26 07:17:30,520 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_AUDIO_HS = false
+2024-05-26 07:17:30,520 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_AUDIO_HS = false
+2024-05-26 07:17:30,520 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-05-26 07:17:30,520 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-05-26 07:17:30,520 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-05-26 07:17:30,520 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_CDC_HS = false
+2024-05-26 07:17:30,520 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_CDC_HS = false
+2024-05-26 07:17:30,520 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_HID_FS = false
+2024-05-26 07:17:30,520 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_HID_FS = false
+2024-05-26 07:17:30,520 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_HID_HS = false
+2024-05-26 07:17:30,520 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_HID_HS = false
+2024-05-26 07:17:30,520 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MSC_FS = false
+2024-05-26 07:17:30,520 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MSC_FS = false
+2024-05-26 07:17:30,520 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MSC_HS = false
+2024-05-26 07:17:30,520 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MSC_HS = false
+2024-05-26 07:17:30,520 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : ALL_SW_VBUS_DRIVE_FS = false
+2024-05-26 07:17:30,520 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : ALL_SW_VBUS_DRIVE_FS = false
+2024-05-26 07:17:30,520 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : ALL_SW_VBUS_DRIVE_HS = false
+2024-05-26 07:17:30,520 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : ALL_SW_VBUS_DRIVE_HS = false
+2024-05-26 07:17:30,520 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MTP_FS = false
+2024-05-26 07:17:30,520 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MTP_FS = false
+2024-05-26 07:17:30,520 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MTP_HS = false
+2024-05-26 07:17:30,520 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MTP_HS = false
+2024-05-26 07:17:30,520 [WARN] BspModel:444 - BSP dependency skipped because of component: name='IOExpander', api='Unknown'
+2024-05-26 07:18:02,977 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 813534872 Bytes (1073741824)
+2024-05-26 07:18:04,612 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 834506392 Bytes (1073741824)
+2024-05-26 07:18:06,238 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 870157976 Bytes (1073741824)
+2024-05-26 07:18:08,336 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FSMC
+2024-05-26 07:18:08,336 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2024-05-26 07:18:08,336 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FREERTOS
+2024-05-26 07:18:08,337 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8
+2024-05-26 07:18:08,337 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-05-26 07:18:08,337 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-05-26 07:18:08,337 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: I2C
+2024-05-26 07:18:08,337 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: DCMI
+2024-05-26 07:18:08,337 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB_OTG_FS
+2024-05-26 07:18:08,337 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-05-26 07:18:08,337 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB_HOST
+2024-05-26 07:18:08,337 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-05-26 07:18:08,337 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: DMA
+2024-05-26 07:18:08,337 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-05-26 07:18:08,337 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: LIBJPEG
+2024-05-26 07:18:08,337 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FATFS
+2024-05-26 07:18:08,338 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.14.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.10.0.202311202037\\db\
+2024-05-26 07:18:08,344 [INFO] Argument:325 - Argument : hdmavalue: null
+2024-05-26 07:18:08,344 [INFO] Argument:327 - 	 sub Args: 
+2024-05-26 07:18:08,344 [INFO] Argument:325 - Argument : Instancevalue: DMA2_Stream1
+2024-05-26 07:18:08,344 [INFO] Argument:335 - Argument : Instancevalue: DMA2_Stream1
+2024-05-26 07:18:08,344 [INFO] Argument:325 - Argument : Initvalue: null
+2024-05-26 07:18:08,344 [INFO] Argument:327 - 	 sub Args: 
+2024-05-26 07:18:08,344 [INFO] Argument:325 - Argument : Channelvalue: DMA_CHANNEL_1
+2024-05-26 07:18:08,344 [INFO] Argument:335 - Argument : Channelvalue: DMA_CHANNEL_1
+2024-05-26 07:18:08,344 [INFO] Argument:325 - Argument : Directionvalue: DMA_PERIPH_TO_MEMORY
+2024-05-26 07:18:08,344 [INFO] Argument:335 - Argument : Directionvalue: DMA_PERIPH_TO_MEMORY
+2024-05-26 07:18:08,344 [INFO] Argument:325 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2024-05-26 07:18:08,344 [INFO] Argument:335 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2024-05-26 07:18:08,344 [INFO] Argument:325 - Argument : MemIncvalue: DMA_MINC_DISABLE
+2024-05-26 07:18:08,344 [INFO] Argument:335 - Argument : MemIncvalue: DMA_MINC_DISABLE
+2024-05-26 07:18:08,344 [INFO] Argument:325 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_WORD
+2024-05-26 07:18:08,344 [INFO] Argument:335 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_WORD
+2024-05-26 07:18:08,344 [INFO] Argument:325 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_WORD
+2024-05-26 07:18:08,344 [INFO] Argument:335 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_WORD
+2024-05-26 07:18:08,344 [INFO] Argument:325 - Argument : Modevalue: DMA_NORMAL
+2024-05-26 07:18:08,344 [INFO] Argument:335 - Argument : Modevalue: DMA_NORMAL
+2024-05-26 07:18:08,344 [INFO] Argument:325 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2024-05-26 07:18:08,344 [INFO] Argument:335 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2024-05-26 07:18:08,344 [INFO] Argument:325 - Argument : FIFOModevalue: DMA_FIFOMODE_DISABLE
+2024-05-26 07:18:08,344 [INFO] Argument:335 - Argument : FIFOModevalue: DMA_FIFOMODE_DISABLE
+2024-05-26 07:18:08,344 [INFO] Argument:325 - Argument : FIFOThresholdvalue: null
+2024-05-26 07:18:08,344 [INFO] Argument:335 - Argument : FIFOThresholdvalue: null
+2024-05-26 07:18:08,344 [INFO] Argument:325 - Argument : MemBurstvalue: null
+2024-05-26 07:18:08,344 [INFO] Argument:335 - Argument : MemBurstvalue: null
+2024-05-26 07:18:08,344 [INFO] Argument:325 - Argument : PeriphBurstvalue: null
+2024-05-26 07:18:08,344 [INFO] Argument:335 - Argument : PeriphBurstvalue: null
+2024-05-26 07:18:08,344 [INFO] Argument:325 - Argument : Lockvalue: null
+2024-05-26 07:18:08,344 [INFO] Argument:335 - Argument : Lockvalue: null
+2024-05-26 07:18:08,344 [INFO] Argument:325 - Argument : Statevalue: null
+2024-05-26 07:18:08,344 [INFO] Argument:335 - Argument : Statevalue: null
+2024-05-26 07:18:08,344 [INFO] Argument:325 - Argument : Parentvalue: null
+2024-05-26 07:18:08,344 [INFO] Argument:335 - Argument : Parentvalue: null
+2024-05-26 07:18:08,344 [INFO] Argument:325 - Argument : XferCpltCallbackvalue: null
+2024-05-26 07:18:08,344 [INFO] Argument:335 - Argument : XferCpltCallbackvalue: null
+2024-05-26 07:18:08,344 [INFO] Argument:325 - Argument : XferHalfCpltCallbackvalue: null
+2024-05-26 07:18:08,344 [INFO] Argument:335 - Argument : XferHalfCpltCallbackvalue: null
+2024-05-26 07:18:08,344 [INFO] Argument:325 - Argument : XferM1CpltCallbackvalue: null
+2024-05-26 07:18:08,344 [INFO] Argument:335 - Argument : XferM1CpltCallbackvalue: null
+2024-05-26 07:18:08,344 [INFO] Argument:325 - Argument : XferErrorCallbackvalue: null
+2024-05-26 07:18:08,344 [INFO] Argument:335 - Argument : XferErrorCallbackvalue: null
+2024-05-26 07:18:08,344 [INFO] Argument:325 - Argument : ErrorCodevalue: null
+2024-05-26 07:18:08,344 [INFO] Argument:335 - Argument : ErrorCodevalue: null
+2024-05-26 07:18:08,356 [WARN] IP:2119 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-05-26 07:18:08,356 [WARN] IP:2119 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-05-26 07:18:08,356 [WARN] IP:2119 - BooleanType not found: check if there is a RefParameter without a condition.
+2024-05-26 07:18:08,369 [INFO] Argument:325 - Argument : hdmavalue: null
+2024-05-26 07:18:08,369 [INFO] Argument:327 - 	 sub Args: 
+2024-05-26 07:18:08,369 [INFO] Argument:325 - Argument : Instancevalue: DMA1_Stream5
+2024-05-26 07:18:08,369 [INFO] Argument:335 - Argument : Instancevalue: DMA1_Stream5
+2024-05-26 07:18:08,369 [INFO] Argument:325 - Argument : Initvalue: null
+2024-05-26 07:18:08,369 [INFO] Argument:327 - 	 sub Args: 
+2024-05-26 07:18:08,369 [INFO] Argument:325 - Argument : Channelvalue: DMA_CHANNEL_4
+2024-05-26 07:18:08,369 [INFO] Argument:335 - Argument : Channelvalue: DMA_CHANNEL_4
+2024-05-26 07:18:08,369 [INFO] Argument:325 - Argument : Directionvalue: DMA_PERIPH_TO_MEMORY
+2024-05-26 07:18:08,369 [INFO] Argument:335 - Argument : Directionvalue: DMA_PERIPH_TO_MEMORY
+2024-05-26 07:18:08,369 [INFO] Argument:325 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2024-05-26 07:18:08,369 [INFO] Argument:335 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2024-05-26 07:18:08,369 [INFO] Argument:325 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2024-05-26 07:18:08,369 [INFO] Argument:335 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2024-05-26 07:18:08,369 [INFO] Argument:325 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_BYTE
+2024-05-26 07:18:08,369 [INFO] Argument:335 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_BYTE
+2024-05-26 07:18:08,369 [INFO] Argument:325 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_BYTE
+2024-05-26 07:18:08,369 [INFO] Argument:335 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_BYTE
+2024-05-26 07:18:08,369 [INFO] Argument:325 - Argument : Modevalue: DMA_CIRCULAR
+2024-05-26 07:18:08,370 [INFO] Argument:335 - Argument : Modevalue: DMA_CIRCULAR
+2024-05-26 07:18:08,370 [INFO] Argument:325 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2024-05-26 07:18:08,370 [INFO] Argument:335 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2024-05-26 07:18:08,370 [INFO] Argument:325 - Argument : FIFOModevalue: DMA_FIFOMODE_DISABLE
+2024-05-26 07:18:08,370 [INFO] Argument:335 - Argument : FIFOModevalue: DMA_FIFOMODE_DISABLE
+2024-05-26 07:18:08,370 [INFO] Argument:325 - Argument : FIFOThresholdvalue: null
+2024-05-26 07:18:08,370 [INFO] Argument:335 - Argument : FIFOThresholdvalue: null
+2024-05-26 07:18:08,370 [INFO] Argument:325 - Argument : MemBurstvalue: null
+2024-05-26 07:18:08,370 [INFO] Argument:335 - Argument : MemBurstvalue: null
+2024-05-26 07:18:08,370 [INFO] Argument:325 - Argument : PeriphBurstvalue: null
+2024-05-26 07:18:08,370 [INFO] Argument:335 - Argument : PeriphBurstvalue: null
+2024-05-26 07:18:08,370 [INFO] Argument:325 - Argument : Lockvalue: null
+2024-05-26 07:18:08,370 [INFO] Argument:335 - Argument : Lockvalue: null
+2024-05-26 07:18:08,370 [INFO] Argument:325 - Argument : Statevalue: null
+2024-05-26 07:18:08,370 [INFO] Argument:335 - Argument : Statevalue: null
+2024-05-26 07:18:08,370 [INFO] Argument:325 - Argument : Parentvalue: null
+2024-05-26 07:18:08,370 [INFO] Argument:335 - Argument : Parentvalue: null
+2024-05-26 07:18:08,370 [INFO] Argument:325 - Argument : XferCpltCallbackvalue: null
+2024-05-26 07:18:08,370 [INFO] Argument:335 - Argument : XferCpltCallbackvalue: null
+2024-05-26 07:18:08,370 [INFO] Argument:325 - Argument : XferHalfCpltCallbackvalue: null
+2024-05-26 07:18:08,370 [INFO] Argument:335 - Argument : XferHalfCpltCallbackvalue: null
+2024-05-26 07:18:08,370 [INFO] Argument:325 - Argument : XferM1CpltCallbackvalue: null
+2024-05-26 07:18:08,370 [INFO] Argument:335 - Argument : XferM1CpltCallbackvalue: null
+2024-05-26 07:18:08,370 [INFO] Argument:325 - Argument : XferErrorCallbackvalue: null
+2024-05-26 07:18:08,370 [INFO] Argument:335 - Argument : XferErrorCallbackvalue: null
+2024-05-26 07:18:08,370 [INFO] Argument:325 - Argument : ErrorCodevalue: null
+2024-05-26 07:18:08,370 [INFO] Argument:335 - Argument : ErrorCodevalue: null
+2024-05-26 07:18:08,526 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\license.tmp_save
+2024-05-26 07:18:08,665 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\license.tmp
+2024-05-26 07:18:08,734 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\gpio.tmp_save
+2024-05-26 07:18:08,921 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\gpio.tmp
+2024-05-26 07:18:09,143 [WARN] IPConfigManager:2946 - Warning: the RefConfig PWREx_EnableUSBVoltageDetector is not available in your config.xml file
+2024-05-26 07:18:09,161 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\usb_otg_fs_vars.tmp_save
+2024-05-26 07:18:09,442 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\usb_otg_fs_vars.tmp
+2024-05-26 07:18:09,455 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\usb_otg_fs_inc.tmp_save
+2024-05-26 07:18:09,804 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\usb_otg_fs_inc.tmp
+2024-05-26 07:18:09,824 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\usb_otg_fs_HalInit.tmp_save
+2024-05-26 07:18:11,302 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\usb_otg_fs_HalInit.tmp
+2024-05-26 07:18:11,332 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\usb_otg_fs_Msp.tmp_save
+2024-05-26 07:18:11,817 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\usb_otg_fs_Msp.tmp
+2024-05-26 07:18:19,202 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-05-26 07:18:19,279 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_inc.tmp_save
+2024-05-26 07:18:20,744 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_inc.tmp
+2024-05-26 07:18:20,811 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_vars.tmp_save
+2024-05-26 07:18:21,329 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_vars.tmp
+2024-05-26 07:18:21,344 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_pfp.tmp_save
+2024-05-26 07:18:21,868 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_pfp.tmp
+2024-05-26 07:18:21,916 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_obj_creat.tmp_save
+2024-05-26 07:18:22,594 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_obj_creat.tmp
+2024-05-26 07:18:22,616 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_kernelStart.tmp_save
+2024-05-26 07:18:23,248 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_kernelStart.tmp
+2024-05-26 07:18:23,291 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_default_thread.tmp_save
+2024-05-26 07:18:23,948 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_default_thread.tmp
+2024-05-26 07:18:23,993 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_threads.tmp_save
+2024-05-26 07:18:24,410 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_threads.tmp
+2024-05-26 07:18:24,453 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-05-26 07:18:24,498 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_HalInit.tmp_save
+2024-05-26 07:18:25,047 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_HalInit.tmp
+2024-05-26 07:18:25,069 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_vars.tmp_save
+2024-05-26 07:18:25,469 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_vars.tmp
+2024-05-26 07:18:25,492 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_ext_vars.tmp_save
+2024-05-26 07:18:25,815 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_ext_vars.tmp
+2024-05-26 07:18:25,836 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_inc.tmp_save
+2024-05-26 07:18:26,376 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_inc.tmp
+2024-05-26 07:18:26,393 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-05-26 07:18:26,475 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-05-26 07:18:26,531 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_inc.tmp_save
+2024-05-26 07:18:27,149 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_inc.tmp
+2024-05-26 07:18:27,173 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_vars.tmp_save
+2024-05-26 07:18:27,515 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_vars.tmp
+2024-05-26 07:18:27,539 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_pfp.tmp_save
+2024-05-26 07:18:27,895 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_pfp.tmp
+2024-05-26 07:18:27,961 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_obj_creat.tmp_save
+2024-05-26 07:18:28,328 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_obj_creat.tmp
+2024-05-26 07:18:28,360 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_kernelStart.tmp_save
+2024-05-26 07:18:28,759 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_kernelStart.tmp
+2024-05-26 07:18:28,797 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_default_thread.tmp_save
+2024-05-26 07:18:29,146 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_default_thread.tmp
+2024-05-26 07:18:29,198 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_threads.tmp_save
+2024-05-26 07:18:29,618 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_threads.tmp
+2024-05-26 07:18:29,692 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Inc\FreeRTOSConfig.h_save
+2024-05-26 07:18:30,467 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Inc\FreeRTOSConfig.h
+2024-05-26 07:18:30,546 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Src\freertos.c_save
+2024-05-26 07:18:31,207 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Src\freertos.c
+2024-05-26 07:18:31,479 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\dma.tmp_save
+2024-05-26 07:18:32,075 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\dma.tmp
+2024-05-26 07:18:32,101 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\dma_GV.tmp_save
+2024-05-26 07:18:32,484 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\dma_GV.tmp
+2024-05-26 07:18:32,504 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-05-26 07:18:32,566 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_HalInit.tmp_save
+2024-05-26 07:18:33,333 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_HalInit.tmp
+2024-05-26 07:18:33,368 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_vars.tmp_save
+2024-05-26 07:18:33,754 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_vars.tmp
+2024-05-26 07:18:33,785 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_ext_vars.tmp_save
+2024-05-26 07:18:34,107 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_ext_vars.tmp
+2024-05-26 07:18:34,140 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_inc.tmp_save
+2024-05-26 07:18:34,456 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_inc.tmp
+2024-05-26 07:18:34,507 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\FATFS\Target\ffconf.h_save
+2024-05-26 07:18:34,976 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\FATFS\Target\ffconf.h
+2024-05-26 07:18:35,007 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\FATFS\Target\user_diskio.c_save
+2024-05-26 07:18:35,323 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\FATFS\Target\user_diskio.c
+2024-05-26 07:18:35,343 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\FATFS\Target\user_diskio.h_save
+2024-05-26 07:18:35,643 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\FATFS\Target\user_diskio.h
+2024-05-26 07:18:35,664 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\FATFS\App\fatfs.c_save
+2024-05-26 07:18:35,963 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\FATFS\App\fatfs.c
+2024-05-26 07:18:35,988 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\FATFS\App\fatfs.h_save
+2024-05-26 07:18:36,324 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\FATFS\App\fatfs.h
+2024-05-26 07:18:36,376 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\mx_fsmc_HC.tmp_save
+2024-05-26 07:18:36,797 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\mx_fsmc_HC.tmp
+2024-05-26 07:18:36,815 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\mx_fsmc_GV.tmp_save
+2024-05-26 07:18:37,214 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\mx_fsmc_GV.tmp
+2024-05-26 07:18:37,227 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\mx_fsmc_MSP.tmp_save
+2024-05-26 07:18:37,735 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\mx_fsmc_MSP.tmp
+2024-05-26 07:18:37,761 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-05-26 07:18:37,796 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\LIBJPEG\App\libjpeg.c_save
+2024-05-26 07:18:38,310 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\LIBJPEG\App\libjpeg.c
+2024-05-26 07:18:38,370 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\LIBJPEG\App\libjpeg.h_save
+2024-05-26 07:18:38,780 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\LIBJPEG\App\libjpeg.h
+2024-05-26 07:18:38,817 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\LIBJPEG\Target\jconfig.h_save
+2024-05-26 07:18:39,107 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\LIBJPEG\Target\jconfig.h
+2024-05-26 07:18:39,160 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\LIBJPEG\Target\jmorecfg.h_save
+2024-05-26 07:18:39,526 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\LIBJPEG\Target\jmorecfg.h
+2024-05-26 07:18:39,548 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\LIBJPEG\Target\jdata_conf.h_save
+2024-05-26 07:18:39,848 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\LIBJPEG\Target\jdata_conf.h
+2024-05-26 07:18:39,869 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\LIBJPEG\Target\jdata_conf.c_save
+2024-05-26 07:18:40,168 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\LIBJPEG\Target\jdata_conf.c
+2024-05-26 07:18:40,295 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\USB_HOST\App\usb_host.c_save
+2024-05-26 07:18:40,829 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\USB_HOST\App\usb_host.c
+2024-05-26 07:18:40,884 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\USB_HOST\App\usb_host.h_save
+2024-05-26 07:18:41,211 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\USB_HOST\App\usb_host.h
+2024-05-26 07:18:41,247 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\USB_HOST\Target\usbh_conf.h_save
+2024-05-26 07:18:41,844 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\USB_HOST\Target\usbh_conf.h
+2024-05-26 07:18:41,905 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\USB_HOST\Target\usbh_conf.c_save
+2024-05-26 07:18:42,387 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\USB_HOST\Target\usbh_conf.c
+2024-05-26 07:18:42,414 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\USB_HOST\Target\usbh_platform.c_save
+2024-05-26 07:18:42,822 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\USB_HOST\Target\usbh_platform.c
+2024-05-26 07:18:42,842 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\USB_HOST\Target\usbh_platform.h_save
+2024-05-26 07:18:43,337 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\USB_HOST\Target\usbh_platform.h
+2024-05-26 07:18:43,603 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Src\stm32f4xx_it.c_save
+2024-05-26 07:18:44,498 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Src\stm32f4xx_it.c
+2024-05-26 07:18:44,523 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Inc\stm32f4xx_it.h_save
+2024-05-26 07:18:44,865 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Inc\stm32f4xx_it.h
+2024-05-26 07:18:45,064 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\mx_fsmc_HC.tmp_save
+2024-05-26 07:18:45,534 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\mx_fsmc_HC.tmp
+2024-05-26 07:18:45,572 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\mx_fsmc_GV.tmp_save
+2024-05-26 07:18:45,933 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\mx_fsmc_GV.tmp
+2024-05-26 07:18:46,021 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\mx_fsmc_MSP.tmp_save
+2024-05-26 07:18:46,357 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\mx_fsmc_MSP.tmp
+2024-05-26 07:18:46,440 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Src\stm32f4xx_hal_msp.c_save
+2024-05-26 07:18:47,052 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Src\stm32f4xx_hal_msp.c
+2024-05-26 07:18:47,072 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\system.tmp_save
+2024-05-26 07:18:47,386 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\system.tmp
+2024-05-26 07:18:47,481 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-05-26 07:18:48,325 [INFO] CodeEngine:335 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Inc\stm32f4xx_hal_conf.h
+2024-05-26 07:18:48,559 [WARN] IPConfigManager:3440 - IP not found : TIM
+2024-05-26 07:18:48,561 [WARN] CodeGenerator:3939 - IP not found : null
+2024-05-26 07:18:48,590 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Inc\main.h_save
+2024-05-26 07:18:49,215 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Inc\main.h
+2024-05-26 07:18:49,329 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Src\main.c_save
+2024-05-26 07:18:50,711 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Src\main.c
+2024-05-26 07:18:57,306 [INFO] ProjectBuilder:3076 - Time for Copy HAL[1] : 3147mS.
+2024-05-26 07:18:57,465 [INFO] ProjectBuilder:4485 - Project Generator version: 4.2.0-B44
+2024-05-26 07:18:59,707 [INFO] ConfigFileManager:1495 - The Die is : DIE413
+2024-05-26 07:19:12,216 [INFO] ProjectBuilder:4747 - Time for Generating toolchain IDE Files: 14750mS.
+2024-05-26 07:19:12,219 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 1mS.
+2024-05-26 07:19:12,314 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 1mS.
+2024-05-26 07:27:03,952 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_AUDIO_FS = false
+2024-05-26 07:27:03,952 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_AUDIO_FS = false
+2024-05-26 07:27:03,952 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_AUDIO_HS = false
+2024-05-26 07:27:03,953 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_AUDIO_HS = false
+2024-05-26 07:27:03,953 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-05-26 07:27:03,953 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-05-26 07:27:03,953 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-05-26 07:27:03,953 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_CDC_HS = false
+2024-05-26 07:27:03,953 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_CDC_HS = false
+2024-05-26 07:27:03,953 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_HID_FS = false
+2024-05-26 07:27:03,953 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_HID_FS = false
+2024-05-26 07:27:03,953 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_HID_HS = false
+2024-05-26 07:27:03,953 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_HID_HS = false
+2024-05-26 07:27:03,953 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MSC_FS = false
+2024-05-26 07:27:03,953 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MSC_FS = false
+2024-05-26 07:27:03,953 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MSC_HS = false
+2024-05-26 07:27:03,953 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MSC_HS = false
+2024-05-26 07:27:03,953 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : ALL_SW_VBUS_DRIVE_FS = false
+2024-05-26 07:27:03,953 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : ALL_SW_VBUS_DRIVE_FS = false
+2024-05-26 07:27:03,953 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : ALL_SW_VBUS_DRIVE_HS = false
+2024-05-26 07:27:03,953 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : ALL_SW_VBUS_DRIVE_HS = false
+2024-05-26 07:27:03,954 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MTP_FS = false
+2024-05-26 07:27:03,954 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MTP_FS = false
+2024-05-26 07:27:03,954 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MTP_HS = false
+2024-05-26 07:27:03,954 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MTP_HS = false
+2024-05-26 07:27:03,954 [WARN] BspModel:444 - BSP dependency skipped because of component: name='IOExpander', api='Unknown'
+2024-05-26 07:27:57,890 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-05-26 07:27:57,955 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-05-26 07:28:46,357 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_AUDIO_FS = false
+2024-05-26 07:28:46,357 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_AUDIO_FS = false
+2024-05-26 07:28:46,357 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_AUDIO_HS = false
+2024-05-26 07:28:46,357 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_AUDIO_HS = false
+2024-05-26 07:28:46,357 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-05-26 07:28:46,357 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-05-26 07:28:46,357 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-05-26 07:28:46,357 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_CDC_HS = false
+2024-05-26 07:28:46,357 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_CDC_HS = false
+2024-05-26 07:28:46,357 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_HID_FS = false
+2024-05-26 07:28:46,357 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_HID_FS = false
+2024-05-26 07:28:46,357 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_HID_HS = false
+2024-05-26 07:28:46,357 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_HID_HS = false
+2024-05-26 07:28:46,358 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MSC_FS = false
+2024-05-26 07:28:46,358 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MSC_FS = false
+2024-05-26 07:28:46,358 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MSC_HS = false
+2024-05-26 07:28:46,358 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MSC_HS = false
+2024-05-26 07:28:46,358 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : ALL_SW_VBUS_DRIVE_FS = false
+2024-05-26 07:28:46,358 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : ALL_SW_VBUS_DRIVE_FS = false
+2024-05-26 07:28:46,358 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : ALL_SW_VBUS_DRIVE_HS = false
+2024-05-26 07:28:46,358 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : ALL_SW_VBUS_DRIVE_HS = false
+2024-05-26 07:28:46,358 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MTP_FS = false
+2024-05-26 07:28:46,358 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MTP_FS = false
+2024-05-26 07:28:46,358 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MTP_HS = false
+2024-05-26 07:28:46,358 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MTP_HS = false
+2024-05-26 07:28:46,358 [WARN] BspModel:444 - BSP dependency skipped because of component: name='IOExpander', api='Unknown'
+2024-05-26 07:28:46,393 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_AUDIO_FS = false
+2024-05-26 07:28:46,393 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_AUDIO_FS = false
+2024-05-26 07:28:46,393 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_AUDIO_HS = false
+2024-05-26 07:28:46,393 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_AUDIO_HS = false
+2024-05-26 07:28:46,393 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-05-26 07:28:46,393 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-05-26 07:28:46,393 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-05-26 07:28:46,393 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_CDC_HS = false
+2024-05-26 07:28:46,393 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_CDC_HS = false
+2024-05-26 07:28:46,393 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_HID_FS = false
+2024-05-26 07:28:46,393 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_HID_FS = false
+2024-05-26 07:28:46,393 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_HID_HS = false
+2024-05-26 07:28:46,393 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_HID_HS = false
+2024-05-26 07:28:46,394 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MSC_FS = false
+2024-05-26 07:28:46,394 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MSC_FS = false
+2024-05-26 07:28:46,394 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MSC_HS = false
+2024-05-26 07:28:46,394 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MSC_HS = false
+2024-05-26 07:28:46,394 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : ALL_SW_VBUS_DRIVE_FS = false
+2024-05-26 07:28:46,394 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : ALL_SW_VBUS_DRIVE_FS = false
+2024-05-26 07:28:46,394 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : ALL_SW_VBUS_DRIVE_HS = false
+2024-05-26 07:28:46,394 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : ALL_SW_VBUS_DRIVE_HS = false
+2024-05-26 07:28:46,394 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MTP_FS = false
+2024-05-26 07:28:46,394 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MTP_FS = false
+2024-05-26 07:28:46,394 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MTP_HS = false
+2024-05-26 07:28:46,394 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MTP_HS = false
+2024-05-26 07:28:46,394 [WARN] BspModel:444 - BSP dependency skipped because of component: name='IOExpander', api='Unknown'
+2024-05-26 07:28:53,897 [INFO] Mcu:1675 - InternalPropertyChange: try BijectiveRequest:SD 1 bit
+2024-05-26 07:28:54,128 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_AUDIO_FS = false
+2024-05-26 07:28:54,128 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_AUDIO_FS = false
+2024-05-26 07:28:54,128 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_AUDIO_HS = false
+2024-05-26 07:28:54,128 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_AUDIO_HS = false
+2024-05-26 07:28:54,128 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-05-26 07:28:54,128 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-05-26 07:28:54,128 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-05-26 07:28:54,128 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_CDC_HS = false
+2024-05-26 07:28:54,128 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_CDC_HS = false
+2024-05-26 07:28:54,128 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_HID_FS = false
+2024-05-26 07:28:54,128 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_HID_FS = false
+2024-05-26 07:28:54,128 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_HID_HS = false
+2024-05-26 07:28:54,128 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_HID_HS = false
+2024-05-26 07:28:54,128 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MSC_FS = false
+2024-05-26 07:28:54,128 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MSC_FS = false
+2024-05-26 07:28:54,128 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MSC_HS = false
+2024-05-26 07:28:54,128 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MSC_HS = false
+2024-05-26 07:28:54,128 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : ALL_SW_VBUS_DRIVE_FS = false
+2024-05-26 07:28:54,128 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : ALL_SW_VBUS_DRIVE_FS = false
+2024-05-26 07:28:54,128 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : ALL_SW_VBUS_DRIVE_HS = false
+2024-05-26 07:28:54,128 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : ALL_SW_VBUS_DRIVE_HS = false
+2024-05-26 07:28:54,128 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MTP_FS = false
+2024-05-26 07:28:54,128 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MTP_FS = false
+2024-05-26 07:28:54,128 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MTP_HS = false
+2024-05-26 07:28:54,128 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MTP_HS = false
+2024-05-26 07:28:54,129 [WARN] BspModel:444 - BSP dependency skipped because of component: name='IOExpander', api='Unknown'
+2024-05-26 07:29:47,682 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_AUDIO_FS = false
+2024-05-26 07:29:47,682 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_AUDIO_FS = false
+2024-05-26 07:29:47,682 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_AUDIO_HS = false
+2024-05-26 07:29:47,682 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_AUDIO_HS = false
+2024-05-26 07:29:47,682 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-05-26 07:29:47,682 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-05-26 07:29:47,682 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-05-26 07:29:47,682 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_CDC_HS = false
+2024-05-26 07:29:47,682 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_CDC_HS = false
+2024-05-26 07:29:47,682 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_HID_FS = false
+2024-05-26 07:29:47,682 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_HID_FS = false
+2024-05-26 07:29:47,682 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_HID_HS = false
+2024-05-26 07:29:47,682 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_HID_HS = false
+2024-05-26 07:29:47,682 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MSC_FS = false
+2024-05-26 07:29:47,683 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MSC_FS = false
+2024-05-26 07:29:47,683 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MSC_HS = false
+2024-05-26 07:29:47,683 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MSC_HS = false
+2024-05-26 07:29:47,683 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : ALL_SW_VBUS_DRIVE_FS = false
+2024-05-26 07:29:47,683 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : ALL_SW_VBUS_DRIVE_FS = false
+2024-05-26 07:29:47,683 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : ALL_SW_VBUS_DRIVE_HS = false
+2024-05-26 07:29:47,683 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : ALL_SW_VBUS_DRIVE_HS = false
+2024-05-26 07:29:47,683 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MTP_FS = false
+2024-05-26 07:29:47,683 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MTP_FS = false
+2024-05-26 07:29:47,683 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MTP_HS = false
+2024-05-26 07:29:47,683 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MTP_HS = false
+2024-05-26 07:29:47,683 [WARN] BspModel:444 - BSP dependency skipped because of component: name='IOExpander', api='Unknown'
+2024-05-26 07:29:54,680 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_AUDIO_FS = false
+2024-05-26 07:29:54,680 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_AUDIO_FS = false
+2024-05-26 07:29:54,680 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_AUDIO_HS = false
+2024-05-26 07:29:54,680 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_AUDIO_HS = false
+2024-05-26 07:29:54,680 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-05-26 07:29:54,680 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-05-26 07:29:54,680 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-05-26 07:29:54,680 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_CDC_HS = false
+2024-05-26 07:29:54,680 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_CDC_HS = false
+2024-05-26 07:29:54,680 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_HID_FS = false
+2024-05-26 07:29:54,680 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_HID_FS = false
+2024-05-26 07:29:54,680 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_HID_HS = false
+2024-05-26 07:29:54,680 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_HID_HS = false
+2024-05-26 07:29:54,680 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MSC_FS = false
+2024-05-26 07:29:54,680 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MSC_FS = false
+2024-05-26 07:29:54,680 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MSC_HS = false
+2024-05-26 07:29:54,680 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MSC_HS = false
+2024-05-26 07:29:54,680 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : ALL_SW_VBUS_DRIVE_FS = false
+2024-05-26 07:29:54,680 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : ALL_SW_VBUS_DRIVE_FS = false
+2024-05-26 07:29:54,680 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : ALL_SW_VBUS_DRIVE_HS = false
+2024-05-26 07:29:54,680 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : ALL_SW_VBUS_DRIVE_HS = false
+2024-05-26 07:29:54,680 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MTP_FS = false
+2024-05-26 07:29:54,680 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MTP_FS = false
+2024-05-26 07:29:54,680 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MTP_HS = false
+2024-05-26 07:29:54,680 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MTP_HS = false
+2024-05-26 07:29:54,681 [WARN] BspModel:444 - BSP dependency skipped because of component: name='IOExpander', api='Unknown'
+2024-05-26 07:32:21,898 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_AUDIO_FS = false
+2024-05-26 07:32:21,898 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_AUDIO_FS = false
+2024-05-26 07:32:21,898 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_AUDIO_HS = false
+2024-05-26 07:32:21,898 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_AUDIO_HS = false
+2024-05-26 07:32:21,898 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-05-26 07:32:21,898 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-05-26 07:32:21,898 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-05-26 07:32:21,898 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_CDC_HS = false
+2024-05-26 07:32:21,898 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_CDC_HS = false
+2024-05-26 07:32:21,898 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_HID_FS = false
+2024-05-26 07:32:21,898 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_HID_FS = false
+2024-05-26 07:32:21,898 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_HID_HS = false
+2024-05-26 07:32:21,898 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_HID_HS = false
+2024-05-26 07:32:21,898 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MSC_FS = false
+2024-05-26 07:32:21,898 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MSC_FS = false
+2024-05-26 07:32:21,898 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MSC_HS = false
+2024-05-26 07:32:21,898 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MSC_HS = false
+2024-05-26 07:32:21,898 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : ALL_SW_VBUS_DRIVE_FS = false
+2024-05-26 07:32:21,898 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : ALL_SW_VBUS_DRIVE_FS = false
+2024-05-26 07:32:21,898 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : ALL_SW_VBUS_DRIVE_HS = false
+2024-05-26 07:32:21,898 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : ALL_SW_VBUS_DRIVE_HS = false
+2024-05-26 07:32:21,898 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MTP_FS = false
+2024-05-26 07:32:21,898 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MTP_FS = false
+2024-05-26 07:32:21,898 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MTP_HS = false
+2024-05-26 07:32:21,898 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MTP_HS = false
+2024-05-26 07:32:21,898 [WARN] BspModel:444 - BSP dependency skipped because of component: name='IOExpander', api='Unknown'
+2024-05-26 07:32:21,956 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_AUDIO_FS = false
+2024-05-26 07:32:21,956 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_AUDIO_FS = false
+2024-05-26 07:32:21,956 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_AUDIO_HS = false
+2024-05-26 07:32:21,956 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_AUDIO_HS = false
+2024-05-26 07:32:21,956 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-05-26 07:32:21,956 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-05-26 07:32:21,956 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-05-26 07:32:21,956 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_CDC_HS = false
+2024-05-26 07:32:21,956 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_CDC_HS = false
+2024-05-26 07:32:21,956 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_HID_FS = false
+2024-05-26 07:32:21,956 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_HID_FS = false
+2024-05-26 07:32:21,956 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_HID_HS = false
+2024-05-26 07:32:21,956 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_HID_HS = false
+2024-05-26 07:32:21,956 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MSC_FS = false
+2024-05-26 07:32:21,956 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MSC_FS = false
+2024-05-26 07:32:21,956 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MSC_HS = false
+2024-05-26 07:32:21,956 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MSC_HS = false
+2024-05-26 07:32:21,956 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : ALL_SW_VBUS_DRIVE_FS = false
+2024-05-26 07:32:21,956 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : ALL_SW_VBUS_DRIVE_FS = false
+2024-05-26 07:32:21,956 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : ALL_SW_VBUS_DRIVE_HS = false
+2024-05-26 07:32:21,956 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : ALL_SW_VBUS_DRIVE_HS = false
+2024-05-26 07:32:21,956 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MTP_FS = false
+2024-05-26 07:32:21,956 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MTP_FS = false
+2024-05-26 07:32:21,956 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MTP_HS = false
+2024-05-26 07:32:21,956 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MTP_HS = false
+2024-05-26 07:32:21,956 [WARN] BspModel:444 - BSP dependency skipped because of component: name='IOExpander', api='Unknown'
+2024-05-26 07:32:29,065 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_AUDIO_FS = false
+2024-05-26 07:32:29,065 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_AUDIO_FS = false
+2024-05-26 07:32:29,065 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_AUDIO_HS = false
+2024-05-26 07:32:29,065 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_AUDIO_HS = false
+2024-05-26 07:32:29,065 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-05-26 07:32:29,065 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-05-26 07:32:29,065 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-05-26 07:32:29,065 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_CDC_HS = false
+2024-05-26 07:32:29,065 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_CDC_HS = false
+2024-05-26 07:32:29,065 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_HID_FS = false
+2024-05-26 07:32:29,065 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_HID_FS = false
+2024-05-26 07:32:29,065 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_HID_HS = false
+2024-05-26 07:32:29,065 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_HID_HS = false
+2024-05-26 07:32:29,065 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MSC_FS = false
+2024-05-26 07:32:29,065 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MSC_FS = false
+2024-05-26 07:32:29,065 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MSC_HS = false
+2024-05-26 07:32:29,065 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MSC_HS = false
+2024-05-26 07:32:29,065 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : ALL_SW_VBUS_DRIVE_FS = false
+2024-05-26 07:32:29,065 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : ALL_SW_VBUS_DRIVE_FS = false
+2024-05-26 07:32:29,065 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : ALL_SW_VBUS_DRIVE_HS = false
+2024-05-26 07:32:29,065 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : ALL_SW_VBUS_DRIVE_HS = false
+2024-05-26 07:32:29,065 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MTP_FS = false
+2024-05-26 07:32:29,065 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MTP_FS = false
+2024-05-26 07:32:29,065 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MTP_HS = false
+2024-05-26 07:32:29,065 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MTP_HS = false
+2024-05-26 07:32:29,065 [WARN] BspModel:444 - BSP dependency skipped because of component: name='IOExpander', api='Unknown'
+2024-05-26 07:32:29,126 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_AUDIO_FS = false
+2024-05-26 07:32:29,126 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_AUDIO_FS = false
+2024-05-26 07:32:29,126 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_AUDIO_HS = false
+2024-05-26 07:32:29,126 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_AUDIO_HS = false
+2024-05-26 07:32:29,126 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-05-26 07:32:29,126 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-05-26 07:32:29,126 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-05-26 07:32:29,126 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_CDC_HS = false
+2024-05-26 07:32:29,126 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_CDC_HS = false
+2024-05-26 07:32:29,126 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_HID_FS = false
+2024-05-26 07:32:29,126 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_HID_FS = false
+2024-05-26 07:32:29,126 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_HID_HS = false
+2024-05-26 07:32:29,126 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_HID_HS = false
+2024-05-26 07:32:29,126 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MSC_FS = false
+2024-05-26 07:32:29,126 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MSC_FS = false
+2024-05-26 07:32:29,126 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MSC_HS = false
+2024-05-26 07:32:29,126 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MSC_HS = false
+2024-05-26 07:32:29,126 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : ALL_SW_VBUS_DRIVE_FS = false
+2024-05-26 07:32:29,126 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : ALL_SW_VBUS_DRIVE_FS = false
+2024-05-26 07:32:29,126 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : ALL_SW_VBUS_DRIVE_HS = false
+2024-05-26 07:32:29,126 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : ALL_SW_VBUS_DRIVE_HS = false
+2024-05-26 07:32:29,126 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MTP_FS = false
+2024-05-26 07:32:29,126 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MTP_FS = false
+2024-05-26 07:32:29,126 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MTP_HS = false
+2024-05-26 07:32:29,126 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MTP_HS = false
+2024-05-26 07:32:29,126 [WARN] BspModel:444 - BSP dependency skipped because of component: name='IOExpander', api='Unknown'
+2024-05-26 07:33:26,128 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_AUDIO_FS = false
+2024-05-26 07:33:26,128 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_AUDIO_FS = false
+2024-05-26 07:33:26,128 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_AUDIO_HS = false
+2024-05-26 07:33:26,128 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_AUDIO_HS = false
+2024-05-26 07:33:26,128 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-05-26 07:33:26,128 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-05-26 07:33:26,128 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-05-26 07:33:26,128 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_CDC_HS = false
+2024-05-26 07:33:26,128 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_CDC_HS = false
+2024-05-26 07:33:26,128 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_HID_FS = false
+2024-05-26 07:33:26,128 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_HID_FS = false
+2024-05-26 07:33:26,128 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_HID_HS = false
+2024-05-26 07:33:26,128 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_HID_HS = false
+2024-05-26 07:33:26,128 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MSC_FS = false
+2024-05-26 07:33:26,128 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MSC_FS = false
+2024-05-26 07:33:26,129 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MSC_HS = false
+2024-05-26 07:33:26,129 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MSC_HS = false
+2024-05-26 07:33:26,129 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : ALL_SW_VBUS_DRIVE_FS = false
+2024-05-26 07:33:26,129 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : ALL_SW_VBUS_DRIVE_FS = false
+2024-05-26 07:33:26,129 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : ALL_SW_VBUS_DRIVE_HS = false
+2024-05-26 07:33:26,129 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : ALL_SW_VBUS_DRIVE_HS = false
+2024-05-26 07:33:26,129 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MTP_FS = false
+2024-05-26 07:33:26,129 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MTP_FS = false
+2024-05-26 07:33:26,129 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MTP_HS = false
+2024-05-26 07:33:26,129 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MTP_HS = false
+2024-05-26 07:33:26,129 [WARN] BspModel:444 - BSP dependency skipped because of component: name='IOExpander', api='Unknown'
+2024-05-26 07:33:26,165 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_AUDIO_FS = false
+2024-05-26 07:33:26,165 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_AUDIO_FS = false
+2024-05-26 07:33:26,165 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_AUDIO_HS = false
+2024-05-26 07:33:26,165 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_AUDIO_HS = false
+2024-05-26 07:33:26,165 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-05-26 07:33:26,165 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-05-26 07:33:26,165 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-05-26 07:33:26,165 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_CDC_HS = false
+2024-05-26 07:33:26,165 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_CDC_HS = false
+2024-05-26 07:33:26,165 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_HID_FS = false
+2024-05-26 07:33:26,165 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_HID_FS = false
+2024-05-26 07:33:26,165 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_HID_HS = false
+2024-05-26 07:33:26,165 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_HID_HS = false
+2024-05-26 07:33:26,165 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MSC_FS = false
+2024-05-26 07:33:26,165 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MSC_FS = false
+2024-05-26 07:33:26,165 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MSC_HS = false
+2024-05-26 07:33:26,165 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MSC_HS = false
+2024-05-26 07:33:26,165 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : ALL_SW_VBUS_DRIVE_FS = false
+2024-05-26 07:33:26,165 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : ALL_SW_VBUS_DRIVE_FS = false
+2024-05-26 07:33:26,165 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : ALL_SW_VBUS_DRIVE_HS = false
+2024-05-26 07:33:26,165 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : ALL_SW_VBUS_DRIVE_HS = false
+2024-05-26 07:33:26,165 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MTP_FS = false
+2024-05-26 07:33:26,165 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MTP_FS = false
+2024-05-26 07:33:26,165 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MTP_HS = false
+2024-05-26 07:33:26,165 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MTP_HS = false
+2024-05-26 07:33:26,165 [WARN] BspModel:444 - BSP dependency skipped because of component: name='IOExpander', api='Unknown'
+2024-05-26 07:33:31,424 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_AUDIO_FS = false
+2024-05-26 07:33:31,424 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_AUDIO_FS = false
+2024-05-26 07:33:31,425 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_AUDIO_HS = false
+2024-05-26 07:33:31,425 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_AUDIO_HS = false
+2024-05-26 07:33:31,425 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-05-26 07:33:31,425 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-05-26 07:33:31,425 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-05-26 07:33:31,425 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_CDC_HS = false
+2024-05-26 07:33:31,425 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_CDC_HS = false
+2024-05-26 07:33:31,425 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_HID_FS = false
+2024-05-26 07:33:31,425 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_HID_FS = false
+2024-05-26 07:33:31,425 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_HID_HS = false
+2024-05-26 07:33:31,425 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_HID_HS = false
+2024-05-26 07:33:31,425 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MSC_FS = false
+2024-05-26 07:33:31,425 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MSC_FS = false
+2024-05-26 07:33:31,425 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MSC_HS = false
+2024-05-26 07:33:31,425 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MSC_HS = false
+2024-05-26 07:33:31,425 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : ALL_SW_VBUS_DRIVE_FS = false
+2024-05-26 07:33:31,425 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : ALL_SW_VBUS_DRIVE_FS = false
+2024-05-26 07:33:31,425 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : ALL_SW_VBUS_DRIVE_HS = false
+2024-05-26 07:33:31,425 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : ALL_SW_VBUS_DRIVE_HS = false
+2024-05-26 07:33:31,425 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MTP_FS = false
+2024-05-26 07:33:31,425 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MTP_FS = false
+2024-05-26 07:33:31,425 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MTP_HS = false
+2024-05-26 07:33:31,425 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MTP_HS = false
+2024-05-26 07:33:31,425 [WARN] BspModel:444 - BSP dependency skipped because of component: name='IOExpander', api='Unknown'
+2024-05-26 07:33:31,511 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_AUDIO_FS = false
+2024-05-26 07:33:31,511 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_AUDIO_FS = false
+2024-05-26 07:33:31,511 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_AUDIO_HS = false
+2024-05-26 07:33:31,511 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_AUDIO_HS = false
+2024-05-26 07:33:31,511 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-05-26 07:33:31,511 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-05-26 07:33:31,511 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_CDC_FS = false
+2024-05-26 07:33:31,511 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_CDC_HS = false
+2024-05-26 07:33:31,511 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_CDC_HS = false
+2024-05-26 07:33:31,511 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_HID_FS = false
+2024-05-26 07:33:31,511 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_HID_FS = false
+2024-05-26 07:33:31,511 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_HID_HS = false
+2024-05-26 07:33:31,511 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_HID_HS = false
+2024-05-26 07:33:31,511 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MSC_FS = false
+2024-05-26 07:33:31,511 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MSC_FS = false
+2024-05-26 07:33:31,511 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MSC_HS = false
+2024-05-26 07:33:31,511 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MSC_HS = false
+2024-05-26 07:33:31,512 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : ALL_SW_VBUS_DRIVE_FS = false
+2024-05-26 07:33:31,512 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : ALL_SW_VBUS_DRIVE_FS = false
+2024-05-26 07:33:31,512 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : ALL_SW_VBUS_DRIVE_HS = false
+2024-05-26 07:33:31,512 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : ALL_SW_VBUS_DRIVE_HS = false
+2024-05-26 07:33:31,512 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MTP_FS = false
+2024-05-26 07:33:31,512 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_FS check condition success for : SW_VBUS_DRIVE_MTP_FS = false
+2024-05-26 07:33:31,512 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MTP_HS = false
+2024-05-26 07:33:31,512 [INFO] Middleware:617 - instanceName : USB_HOST bspName : Drive_VBUS_HS check condition success for : SW_VBUS_DRIVE_MTP_HS = false
+2024-05-26 07:33:31,512 [WARN] BspModel:444 - BSP dependency skipped because of component: name='IOExpander', api='Unknown'
+2024-05-26 07:36:15,419 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 811884640 Bytes (1073741824)
+2024-05-26 07:36:16,650 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 852774392 Bytes (1073741824)
+2024-05-26 07:36:18,736 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 918312424 Bytes (1073741824)
+2024-05-26 07:36:21,585 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FSMC
+2024-05-26 07:36:21,586 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2024-05-26 07:36:21,586 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FREERTOS
+2024-05-26 07:36:21,586 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8
+2024-05-26 07:36:21,586 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-05-26 07:36:21,586 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-05-26 07:36:21,586 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: I2C
+2024-05-26 07:36:21,586 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: DCMI
+2024-05-26 07:36:21,586 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB_OTG_FS
+2024-05-26 07:36:21,586 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-05-26 07:36:21,587 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB_HOST
+2024-05-26 07:36:21,587 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-05-26 07:36:21,587 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: DMA
+2024-05-26 07:36:21,588 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-05-26 07:36:21,589 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: LIBJPEG
+2024-05-26 07:36:21,589 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FATFS
+2024-05-26 07:36:21,591 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.14.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.10.0.202311202037\\db\
+2024-05-26 07:36:21,608 [INFO] Argument:325 - Argument : hdmavalue: null
+2024-05-26 07:36:21,609 [INFO] Argument:327 - 	 sub Args: 
+2024-05-26 07:36:21,609 [INFO] Argument:325 - Argument : Instancevalue: DMA2_Stream1
+2024-05-26 07:36:21,610 [INFO] Argument:335 - Argument : Instancevalue: DMA2_Stream1
+2024-05-26 07:36:21,610 [INFO] Argument:325 - Argument : Initvalue: null
+2024-05-26 07:36:21,610 [INFO] Argument:327 - 	 sub Args: 
+2024-05-26 07:36:21,610 [INFO] Argument:325 - Argument : Channelvalue: DMA_CHANNEL_1
+2024-05-26 07:36:21,610 [INFO] Argument:335 - Argument : Channelvalue: DMA_CHANNEL_1
+2024-05-26 07:36:21,610 [INFO] Argument:325 - Argument : Directionvalue: DMA_PERIPH_TO_MEMORY
+2024-05-26 07:36:21,610 [INFO] Argument:335 - Argument : Directionvalue: DMA_PERIPH_TO_MEMORY
+2024-05-26 07:36:21,610 [INFO] Argument:325 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2024-05-26 07:36:21,610 [INFO] Argument:335 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2024-05-26 07:36:21,610 [INFO] Argument:325 - Argument : MemIncvalue: DMA_MINC_DISABLE
+2024-05-26 07:36:21,611 [INFO] Argument:335 - Argument : MemIncvalue: DMA_MINC_DISABLE
+2024-05-26 07:36:21,611 [INFO] Argument:325 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_WORD
+2024-05-26 07:36:21,611 [INFO] Argument:335 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_WORD
+2024-05-26 07:36:21,612 [INFO] Argument:325 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_WORD
+2024-05-26 07:36:21,612 [INFO] Argument:335 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_WORD
+2024-05-26 07:36:21,612 [INFO] Argument:325 - Argument : Modevalue: DMA_NORMAL
+2024-05-26 07:36:21,612 [INFO] Argument:335 - Argument : Modevalue: DMA_NORMAL
+2024-05-26 07:36:21,612 [INFO] Argument:325 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2024-05-26 07:36:21,612 [INFO] Argument:335 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2024-05-26 07:36:21,612 [INFO] Argument:325 - Argument : FIFOModevalue: DMA_FIFOMODE_DISABLE
+2024-05-26 07:36:21,612 [INFO] Argument:335 - Argument : FIFOModevalue: DMA_FIFOMODE_DISABLE
+2024-05-26 07:36:21,612 [INFO] Argument:325 - Argument : FIFOThresholdvalue: null
+2024-05-26 07:36:21,612 [INFO] Argument:335 - Argument : FIFOThresholdvalue: null
+2024-05-26 07:36:21,612 [INFO] Argument:325 - Argument : MemBurstvalue: null
+2024-05-26 07:36:21,612 [INFO] Argument:335 - Argument : MemBurstvalue: null
+2024-05-26 07:36:21,613 [INFO] Argument:325 - Argument : PeriphBurstvalue: null
+2024-05-26 07:36:21,613 [INFO] Argument:335 - Argument : PeriphBurstvalue: null
+2024-05-26 07:36:21,613 [INFO] Argument:325 - Argument : Lockvalue: null
+2024-05-26 07:36:21,613 [INFO] Argument:335 - Argument : Lockvalue: null
+2024-05-26 07:36:21,613 [INFO] Argument:325 - Argument : Statevalue: null
+2024-05-26 07:36:21,614 [INFO] Argument:335 - Argument : Statevalue: null
+2024-05-26 07:36:21,614 [INFO] Argument:325 - Argument : Parentvalue: null
+2024-05-26 07:36:21,614 [INFO] Argument:335 - Argument : Parentvalue: null
+2024-05-26 07:36:21,614 [INFO] Argument:325 - Argument : XferCpltCallbackvalue: null
+2024-05-26 07:36:21,614 [INFO] Argument:335 - Argument : XferCpltCallbackvalue: null
+2024-05-26 07:36:21,614 [INFO] Argument:325 - Argument : XferHalfCpltCallbackvalue: null
+2024-05-26 07:36:21,614 [INFO] Argument:335 - Argument : XferHalfCpltCallbackvalue: null
+2024-05-26 07:36:21,615 [INFO] Argument:325 - Argument : XferM1CpltCallbackvalue: null
+2024-05-26 07:36:21,615 [INFO] Argument:335 - Argument : XferM1CpltCallbackvalue: null
+2024-05-26 07:36:21,616 [INFO] Argument:325 - Argument : XferErrorCallbackvalue: null
+2024-05-26 07:36:21,616 [INFO] Argument:335 - Argument : XferErrorCallbackvalue: null
+2024-05-26 07:36:21,616 [INFO] Argument:325 - Argument : ErrorCodevalue: null
+2024-05-26 07:36:21,616 [INFO] Argument:335 - Argument : ErrorCodevalue: null
+2024-05-26 07:36:21,662 [WARN] IP:2119 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-05-26 07:36:21,662 [WARN] IP:2119 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-05-26 07:36:21,668 [WARN] IP:2119 - BooleanType not found: check if there is a RefParameter without a condition.
+2024-05-26 07:36:21,725 [INFO] Argument:325 - Argument : hdmavalue: null
+2024-05-26 07:36:21,725 [INFO] Argument:327 - 	 sub Args: 
+2024-05-26 07:36:21,725 [INFO] Argument:325 - Argument : Instancevalue: DMA1_Stream5
+2024-05-26 07:36:21,725 [INFO] Argument:335 - Argument : Instancevalue: DMA1_Stream5
+2024-05-26 07:36:21,725 [INFO] Argument:325 - Argument : Initvalue: null
+2024-05-26 07:36:21,725 [INFO] Argument:327 - 	 sub Args: 
+2024-05-26 07:36:21,725 [INFO] Argument:325 - Argument : Channelvalue: DMA_CHANNEL_4
+2024-05-26 07:36:21,725 [INFO] Argument:335 - Argument : Channelvalue: DMA_CHANNEL_4
+2024-05-26 07:36:21,725 [INFO] Argument:325 - Argument : Directionvalue: DMA_PERIPH_TO_MEMORY
+2024-05-26 07:36:21,725 [INFO] Argument:335 - Argument : Directionvalue: DMA_PERIPH_TO_MEMORY
+2024-05-26 07:36:21,725 [INFO] Argument:325 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2024-05-26 07:36:21,725 [INFO] Argument:335 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2024-05-26 07:36:21,726 [INFO] Argument:325 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2024-05-26 07:36:21,726 [INFO] Argument:335 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2024-05-26 07:36:21,726 [INFO] Argument:325 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_BYTE
+2024-05-26 07:36:21,726 [INFO] Argument:335 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_BYTE
+2024-05-26 07:36:21,726 [INFO] Argument:325 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_BYTE
+2024-05-26 07:36:21,726 [INFO] Argument:335 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_BYTE
+2024-05-26 07:36:21,726 [INFO] Argument:325 - Argument : Modevalue: DMA_CIRCULAR
+2024-05-26 07:36:21,726 [INFO] Argument:335 - Argument : Modevalue: DMA_CIRCULAR
+2024-05-26 07:36:21,726 [INFO] Argument:325 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2024-05-26 07:36:21,726 [INFO] Argument:335 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2024-05-26 07:36:21,726 [INFO] Argument:325 - Argument : FIFOModevalue: DMA_FIFOMODE_DISABLE
+2024-05-26 07:36:21,726 [INFO] Argument:335 - Argument : FIFOModevalue: DMA_FIFOMODE_DISABLE
+2024-05-26 07:36:21,726 [INFO] Argument:325 - Argument : FIFOThresholdvalue: null
+2024-05-26 07:36:21,726 [INFO] Argument:335 - Argument : FIFOThresholdvalue: null
+2024-05-26 07:36:21,726 [INFO] Argument:325 - Argument : MemBurstvalue: null
+2024-05-26 07:36:21,727 [INFO] Argument:335 - Argument : MemBurstvalue: null
+2024-05-26 07:36:21,727 [INFO] Argument:325 - Argument : PeriphBurstvalue: null
+2024-05-26 07:36:21,727 [INFO] Argument:335 - Argument : PeriphBurstvalue: null
+2024-05-26 07:36:21,727 [INFO] Argument:325 - Argument : Lockvalue: null
+2024-05-26 07:36:21,727 [INFO] Argument:335 - Argument : Lockvalue: null
+2024-05-26 07:36:21,727 [INFO] Argument:325 - Argument : Statevalue: null
+2024-05-26 07:36:21,727 [INFO] Argument:335 - Argument : Statevalue: null
+2024-05-26 07:36:21,727 [INFO] Argument:325 - Argument : Parentvalue: null
+2024-05-26 07:36:21,727 [INFO] Argument:335 - Argument : Parentvalue: null
+2024-05-26 07:36:21,727 [INFO] Argument:325 - Argument : XferCpltCallbackvalue: null
+2024-05-26 07:36:21,727 [INFO] Argument:335 - Argument : XferCpltCallbackvalue: null
+2024-05-26 07:36:21,727 [INFO] Argument:325 - Argument : XferHalfCpltCallbackvalue: null
+2024-05-26 07:36:21,727 [INFO] Argument:335 - Argument : XferHalfCpltCallbackvalue: null
+2024-05-26 07:36:21,727 [INFO] Argument:325 - Argument : XferM1CpltCallbackvalue: null
+2024-05-26 07:36:21,727 [INFO] Argument:335 - Argument : XferM1CpltCallbackvalue: null
+2024-05-26 07:36:21,727 [INFO] Argument:325 - Argument : XferErrorCallbackvalue: null
+2024-05-26 07:36:21,727 [INFO] Argument:335 - Argument : XferErrorCallbackvalue: null
+2024-05-26 07:36:21,727 [INFO] Argument:325 - Argument : ErrorCodevalue: null
+2024-05-26 07:36:21,728 [INFO] Argument:335 - Argument : ErrorCodevalue: null
+2024-05-26 07:36:22,199 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\license.tmp_save
+2024-05-26 07:36:22,927 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\license.tmp
+2024-05-26 07:36:23,337 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\gpio.tmp_save
+2024-05-26 07:36:23,860 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\gpio.tmp
+2024-05-26 07:36:24,219 [WARN] IPConfigManager:2946 - Warning: the RefConfig PWREx_EnableUSBVoltageDetector is not available in your config.xml file
+2024-05-26 07:36:24,249 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\usb_otg_fs_vars.tmp_save
+2024-05-26 07:36:24,657 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\usb_otg_fs_vars.tmp
+2024-05-26 07:36:24,670 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\usb_otg_fs_inc.tmp_save
+2024-05-26 07:36:25,075 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\usb_otg_fs_inc.tmp
+2024-05-26 07:36:25,094 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\usb_otg_fs_HalInit.tmp_save
+2024-05-26 07:36:25,537 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\usb_otg_fs_HalInit.tmp
+2024-05-26 07:36:25,553 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\usb_otg_fs_Msp.tmp_save
+2024-05-26 07:36:25,863 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\usb_otg_fs_Msp.tmp
+2024-05-26 07:36:30,144 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-05-26 07:36:30,176 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_inc.tmp_save
+2024-05-26 07:36:30,560 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_inc.tmp
+2024-05-26 07:36:30,570 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_vars.tmp_save
+2024-05-26 07:36:30,834 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_vars.tmp
+2024-05-26 07:36:30,852 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_pfp.tmp_save
+2024-05-26 07:36:31,102 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_pfp.tmp
+2024-05-26 07:36:31,111 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_obj_creat.tmp_save
+2024-05-26 07:36:31,396 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_obj_creat.tmp
+2024-05-26 07:36:31,414 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_kernelStart.tmp_save
+2024-05-26 07:36:31,684 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_kernelStart.tmp
+2024-05-26 07:36:31,703 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_default_thread.tmp_save
+2024-05-26 07:36:32,012 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_default_thread.tmp
+2024-05-26 07:36:32,025 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_threads.tmp_save
+2024-05-26 07:36:32,375 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_threads.tmp
+2024-05-26 07:36:32,395 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-05-26 07:36:32,417 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_HalInit.tmp_save
+2024-05-26 07:36:32,790 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_HalInit.tmp
+2024-05-26 07:36:32,801 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_vars.tmp_save
+2024-05-26 07:36:33,134 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_vars.tmp
+2024-05-26 07:36:33,148 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_ext_vars.tmp_save
+2024-05-26 07:36:33,392 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_ext_vars.tmp
+2024-05-26 07:36:33,405 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_inc.tmp_save
+2024-05-26 07:36:33,650 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_inc.tmp
+2024-05-26 07:36:33,668 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-05-26 07:36:33,717 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-05-26 07:36:33,746 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_inc.tmp_save
+2024-05-26 07:36:34,208 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_inc.tmp
+2024-05-26 07:36:34,227 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_vars.tmp_save
+2024-05-26 07:36:34,541 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_vars.tmp
+2024-05-26 07:36:34,566 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_pfp.tmp_save
+2024-05-26 07:36:34,872 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_pfp.tmp
+2024-05-26 07:36:34,933 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_obj_creat.tmp_save
+2024-05-26 07:36:35,222 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_obj_creat.tmp
+2024-05-26 07:36:35,244 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_kernelStart.tmp_save
+2024-05-26 07:36:35,539 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_kernelStart.tmp
+2024-05-26 07:36:35,560 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_default_thread.tmp_save
+2024-05-26 07:36:35,831 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_default_thread.tmp
+2024-05-26 07:36:35,841 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_threads.tmp_save
+2024-05-26 07:36:36,088 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_threads.tmp
+2024-05-26 07:36:36,141 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Inc\FreeRTOSConfig.h_save
+2024-05-26 07:36:36,436 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Inc\FreeRTOSConfig.h
+2024-05-26 07:36:36,478 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Src\freertos.c_save
+2024-05-26 07:36:36,787 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Src\freertos.c
+2024-05-26 07:36:36,959 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\dma.tmp_save
+2024-05-26 07:36:37,365 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\dma.tmp
+2024-05-26 07:36:37,367 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\dma_GV.tmp_save
+2024-05-26 07:36:37,640 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\dma_GV.tmp
+2024-05-26 07:36:37,648 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-05-26 07:36:37,679 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_HalInit.tmp_save
+2024-05-26 07:36:38,053 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_HalInit.tmp
+2024-05-26 07:36:38,075 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_vars.tmp_save
+2024-05-26 07:36:38,339 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_vars.tmp
+2024-05-26 07:36:38,361 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_ext_vars.tmp_save
+2024-05-26 07:36:38,626 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_ext_vars.tmp
+2024-05-26 07:36:38,644 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_inc.tmp_save
+2024-05-26 07:36:38,906 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_inc.tmp
+2024-05-26 07:36:38,943 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\FATFS\Target\ffconf.h_save
+2024-05-26 07:36:39,287 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\FATFS\Target\ffconf.h
+2024-05-26 07:36:39,307 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\FATFS\Target\user_diskio.c_save
+2024-05-26 07:36:39,531 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\FATFS\Target\user_diskio.c
+2024-05-26 07:36:39,548 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\FATFS\Target\user_diskio.h_save
+2024-05-26 07:36:39,788 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\FATFS\Target\user_diskio.h
+2024-05-26 07:36:39,803 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\FATFS\App\fatfs.c_save
+2024-05-26 07:36:39,977 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\FATFS\App\fatfs.c
+2024-05-26 07:36:39,988 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\FATFS\App\fatfs.h_save
+2024-05-26 07:36:40,184 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\FATFS\App\fatfs.h
+2024-05-26 07:36:40,227 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\mx_fsmc_HC.tmp_save
+2024-05-26 07:36:40,548 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\mx_fsmc_HC.tmp
+2024-05-26 07:36:40,555 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\mx_fsmc_GV.tmp_save
+2024-05-26 07:36:40,789 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\mx_fsmc_GV.tmp
+2024-05-26 07:36:40,799 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\mx_fsmc_MSP.tmp_save
+2024-05-26 07:36:41,114 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\mx_fsmc_MSP.tmp
+2024-05-26 07:36:41,134 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-05-26 07:36:41,166 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\LIBJPEG\App\libjpeg.c_save
+2024-05-26 07:36:41,556 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\LIBJPEG\App\libjpeg.c
+2024-05-26 07:36:41,591 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\LIBJPEG\App\libjpeg.h_save
+2024-05-26 07:36:41,840 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\LIBJPEG\App\libjpeg.h
+2024-05-26 07:36:41,857 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\LIBJPEG\Target\jconfig.h_save
+2024-05-26 07:36:42,085 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\LIBJPEG\Target\jconfig.h
+2024-05-26 07:36:42,131 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\LIBJPEG\Target\jmorecfg.h_save
+2024-05-26 07:36:42,490 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\LIBJPEG\Target\jmorecfg.h
+2024-05-26 07:36:42,510 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\LIBJPEG\Target\jdata_conf.h_save
+2024-05-26 07:36:42,720 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\LIBJPEG\Target\jdata_conf.h
+2024-05-26 07:36:42,733 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\LIBJPEG\Target\jdata_conf.c_save
+2024-05-26 07:36:42,952 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\LIBJPEG\Target\jdata_conf.c
+2024-05-26 07:36:43,023 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\USB_HOST\App\usb_host.c_save
+2024-05-26 07:36:43,331 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\USB_HOST\App\usb_host.c
+2024-05-26 07:36:43,345 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\USB_HOST\App\usb_host.h_save
+2024-05-26 07:36:43,568 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\USB_HOST\App\usb_host.h
+2024-05-26 07:36:43,589 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\USB_HOST\Target\usbh_conf.h_save
+2024-05-26 07:36:43,831 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\USB_HOST\Target\usbh_conf.h
+2024-05-26 07:36:43,871 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\USB_HOST\Target\usbh_conf.c_save
+2024-05-26 07:36:44,243 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\USB_HOST\Target\usbh_conf.c
+2024-05-26 07:36:44,258 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\USB_HOST\Target\usbh_platform.c_save
+2024-05-26 07:36:44,550 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\USB_HOST\Target\usbh_platform.c
+2024-05-26 07:36:44,569 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\USB_HOST\Target\usbh_platform.h_save
+2024-05-26 07:36:45,024 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\USB_HOST\Target\usbh_platform.h
+2024-05-26 07:36:45,152 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Src\stm32f4xx_it.c_save
+2024-05-26 07:36:45,997 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Src\stm32f4xx_it.c
+2024-05-26 07:36:46,025 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Inc\stm32f4xx_it.h_save
+2024-05-26 07:36:46,487 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Inc\stm32f4xx_it.h
+2024-05-26 07:36:46,643 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\mx_fsmc_HC.tmp_save
+2024-05-26 07:36:47,078 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\mx_fsmc_HC.tmp
+2024-05-26 07:36:47,126 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\mx_fsmc_GV.tmp_save
+2024-05-26 07:36:47,705 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\mx_fsmc_GV.tmp
+2024-05-26 07:36:47,831 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\mx_fsmc_MSP.tmp_save
+2024-05-26 07:36:48,301 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\mx_fsmc_MSP.tmp
+2024-05-26 07:36:48,554 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Src\stm32f4xx_hal_msp.c_save
+2024-05-26 07:36:49,472 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Src\stm32f4xx_hal_msp.c
+2024-05-26 07:36:49,524 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\system.tmp_save
+2024-05-26 07:36:49,938 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\system.tmp
+2024-05-26 07:36:50,063 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-05-26 07:36:50,618 [INFO] CodeEngine:335 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Inc\stm32f4xx_hal_conf.h
+2024-05-26 07:36:50,801 [WARN] IPConfigManager:3440 - IP not found : TIM
+2024-05-26 07:36:50,803 [WARN] CodeGenerator:3939 - IP not found : null
+2024-05-26 07:36:51,175 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Inc\main.h_save
+2024-05-26 07:36:51,913 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Inc\main.h
+2024-05-26 07:36:52,108 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Src\main.c_save
+2024-05-26 07:36:53,256 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Src\main.c
+2024-05-26 07:37:01,728 [INFO] ProjectBuilder:3076 - Time for Copy HAL[1] : 3319mS.
+2024-05-26 07:37:01,868 [INFO] ProjectBuilder:4485 - Project Generator version: 4.2.0-B44
+2024-05-26 07:37:04,169 [INFO] ConfigFileManager:1495 - The Die is : DIE413
+2024-05-26 07:37:23,009 [INFO] ProjectBuilder:4747 - Time for Generating toolchain IDE Files: 21141mS.
+2024-05-26 07:37:23,013 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 4mS.
+2024-05-26 07:37:23,097 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.
+2024-05-26 07:41:02,987 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,570x140,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-05-26 07:41:06,638 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-05-26 07:41:21,832 [WARN] IP:2119 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-05-26 07:41:21,832 [WARN] IP:2119 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-05-26 07:41:32,440 [WARN] IpParametersView:151 - Warning: This peripheral hasn't parameters
+2024-05-26 07:41:46,711 [INFO] Gpio:277 - dependency for GPIO [DCMI, FSMC, I2C2, RCC, SPI1, SYS, TIM5, USART2, USB_OTG_FS]
+2024-05-26 07:42:36,205 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 806904152 Bytes (1073741824)
+2024-05-26 07:42:38,312 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 828924248 Bytes (1073741824)
+2024-05-26 07:42:41,446 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 922773848 Bytes (1073741824)
+2024-05-26 07:42:44,578 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FSMC
+2024-05-26 07:42:44,578 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2024-05-26 07:42:44,578 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FREERTOS
+2024-05-26 07:42:44,578 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8
+2024-05-26 07:42:44,578 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-05-26 07:42:44,578 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-05-26 07:42:44,578 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: I2C
+2024-05-26 07:42:44,578 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: DCMI
+2024-05-26 07:42:44,578 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB_OTG_FS
+2024-05-26 07:42:44,579 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-05-26 07:42:44,579 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB_HOST
+2024-05-26 07:42:44,579 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-05-26 07:42:44,579 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: DMA
+2024-05-26 07:42:44,581 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-05-26 07:42:44,581 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: LIBJPEG
+2024-05-26 07:42:44,581 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FATFS
+2024-05-26 07:42:44,585 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.14.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.10.0.202311202037\\db\
+2024-05-26 07:42:44,601 [INFO] Argument:325 - Argument : hdmavalue: null
+2024-05-26 07:42:44,602 [INFO] Argument:327 - 	 sub Args: 
+2024-05-26 07:42:44,602 [INFO] Argument:325 - Argument : Instancevalue: DMA2_Stream1
+2024-05-26 07:42:44,602 [INFO] Argument:335 - Argument : Instancevalue: DMA2_Stream1
+2024-05-26 07:42:44,602 [INFO] Argument:325 - Argument : Initvalue: null
+2024-05-26 07:42:44,602 [INFO] Argument:327 - 	 sub Args: 
+2024-05-26 07:42:44,602 [INFO] Argument:325 - Argument : Channelvalue: DMA_CHANNEL_1
+2024-05-26 07:42:44,602 [INFO] Argument:335 - Argument : Channelvalue: DMA_CHANNEL_1
+2024-05-26 07:42:44,602 [INFO] Argument:325 - Argument : Directionvalue: DMA_PERIPH_TO_MEMORY
+2024-05-26 07:42:44,602 [INFO] Argument:335 - Argument : Directionvalue: DMA_PERIPH_TO_MEMORY
+2024-05-26 07:42:44,602 [INFO] Argument:325 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2024-05-26 07:42:44,604 [INFO] Argument:335 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2024-05-26 07:42:44,604 [INFO] Argument:325 - Argument : MemIncvalue: DMA_MINC_DISABLE
+2024-05-26 07:42:44,604 [INFO] Argument:335 - Argument : MemIncvalue: DMA_MINC_DISABLE
+2024-05-26 07:42:44,604 [INFO] Argument:325 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_WORD
+2024-05-26 07:42:44,604 [INFO] Argument:335 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_WORD
+2024-05-26 07:42:44,604 [INFO] Argument:325 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_WORD
+2024-05-26 07:42:44,604 [INFO] Argument:335 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_WORD
+2024-05-26 07:42:44,604 [INFO] Argument:325 - Argument : Modevalue: DMA_NORMAL
+2024-05-26 07:42:44,604 [INFO] Argument:335 - Argument : Modevalue: DMA_NORMAL
+2024-05-26 07:42:44,604 [INFO] Argument:325 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2024-05-26 07:42:44,604 [INFO] Argument:335 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2024-05-26 07:42:44,604 [INFO] Argument:325 - Argument : FIFOModevalue: DMA_FIFOMODE_DISABLE
+2024-05-26 07:42:44,604 [INFO] Argument:335 - Argument : FIFOModevalue: DMA_FIFOMODE_DISABLE
+2024-05-26 07:42:44,604 [INFO] Argument:325 - Argument : FIFOThresholdvalue: null
+2024-05-26 07:42:44,604 [INFO] Argument:335 - Argument : FIFOThresholdvalue: null
+2024-05-26 07:42:44,605 [INFO] Argument:325 - Argument : MemBurstvalue: null
+2024-05-26 07:42:44,605 [INFO] Argument:335 - Argument : MemBurstvalue: null
+2024-05-26 07:42:44,605 [INFO] Argument:325 - Argument : PeriphBurstvalue: null
+2024-05-26 07:42:44,605 [INFO] Argument:335 - Argument : PeriphBurstvalue: null
+2024-05-26 07:42:44,605 [INFO] Argument:325 - Argument : Lockvalue: null
+2024-05-26 07:42:44,605 [INFO] Argument:335 - Argument : Lockvalue: null
+2024-05-26 07:42:44,605 [INFO] Argument:325 - Argument : Statevalue: null
+2024-05-26 07:42:44,606 [INFO] Argument:335 - Argument : Statevalue: null
+2024-05-26 07:42:44,606 [INFO] Argument:325 - Argument : Parentvalue: null
+2024-05-26 07:42:44,606 [INFO] Argument:335 - Argument : Parentvalue: null
+2024-05-26 07:42:44,606 [INFO] Argument:325 - Argument : XferCpltCallbackvalue: null
+2024-05-26 07:42:44,606 [INFO] Argument:335 - Argument : XferCpltCallbackvalue: null
+2024-05-26 07:42:44,606 [INFO] Argument:325 - Argument : XferHalfCpltCallbackvalue: null
+2024-05-26 07:42:44,606 [INFO] Argument:335 - Argument : XferHalfCpltCallbackvalue: null
+2024-05-26 07:42:44,606 [INFO] Argument:325 - Argument : XferM1CpltCallbackvalue: null
+2024-05-26 07:42:44,606 [INFO] Argument:335 - Argument : XferM1CpltCallbackvalue: null
+2024-05-26 07:42:44,606 [INFO] Argument:325 - Argument : XferErrorCallbackvalue: null
+2024-05-26 07:42:44,606 [INFO] Argument:335 - Argument : XferErrorCallbackvalue: null
+2024-05-26 07:42:44,606 [INFO] Argument:325 - Argument : ErrorCodevalue: null
+2024-05-26 07:42:44,606 [INFO] Argument:335 - Argument : ErrorCodevalue: null
+2024-05-26 07:42:44,876 [WARN] IP:2119 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-05-26 07:42:44,877 [WARN] IP:2119 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-05-26 07:42:44,887 [WARN] IP:2119 - BooleanType not found: check if there is a RefParameter without a condition.
+2024-05-26 07:42:44,966 [INFO] Argument:325 - Argument : hdmavalue: null
+2024-05-26 07:42:44,966 [INFO] Argument:327 - 	 sub Args: 
+2024-05-26 07:42:44,967 [INFO] Argument:325 - Argument : Instancevalue: DMA1_Stream5
+2024-05-26 07:42:44,967 [INFO] Argument:335 - Argument : Instancevalue: DMA1_Stream5
+2024-05-26 07:42:44,967 [INFO] Argument:325 - Argument : Initvalue: null
+2024-05-26 07:42:44,967 [INFO] Argument:327 - 	 sub Args: 
+2024-05-26 07:42:44,967 [INFO] Argument:325 - Argument : Channelvalue: DMA_CHANNEL_4
+2024-05-26 07:42:44,967 [INFO] Argument:335 - Argument : Channelvalue: DMA_CHANNEL_4
+2024-05-26 07:42:44,967 [INFO] Argument:325 - Argument : Directionvalue: DMA_PERIPH_TO_MEMORY
+2024-05-26 07:42:44,967 [INFO] Argument:335 - Argument : Directionvalue: DMA_PERIPH_TO_MEMORY
+2024-05-26 07:42:44,967 [INFO] Argument:325 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2024-05-26 07:42:44,967 [INFO] Argument:335 - Argument : PeriphIncvalue: DMA_PINC_DISABLE
+2024-05-26 07:42:44,968 [INFO] Argument:325 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2024-05-26 07:42:44,968 [INFO] Argument:335 - Argument : MemIncvalue: DMA_MINC_ENABLE
+2024-05-26 07:42:44,968 [INFO] Argument:325 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_BYTE
+2024-05-26 07:42:44,968 [INFO] Argument:335 - Argument : PeriphDataAlignmentvalue: DMA_PDATAALIGN_BYTE
+2024-05-26 07:42:44,968 [INFO] Argument:325 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_BYTE
+2024-05-26 07:42:44,968 [INFO] Argument:335 - Argument : MemDataAlignmentvalue: DMA_MDATAALIGN_BYTE
+2024-05-26 07:42:44,968 [INFO] Argument:325 - Argument : Modevalue: DMA_CIRCULAR
+2024-05-26 07:42:44,968 [INFO] Argument:335 - Argument : Modevalue: DMA_CIRCULAR
+2024-05-26 07:42:44,968 [INFO] Argument:325 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2024-05-26 07:42:44,968 [INFO] Argument:335 - Argument : Priorityvalue: DMA_PRIORITY_LOW
+2024-05-26 07:42:44,968 [INFO] Argument:325 - Argument : FIFOModevalue: DMA_FIFOMODE_DISABLE
+2024-05-26 07:42:44,968 [INFO] Argument:335 - Argument : FIFOModevalue: DMA_FIFOMODE_DISABLE
+2024-05-26 07:42:44,968 [INFO] Argument:325 - Argument : FIFOThresholdvalue: null
+2024-05-26 07:42:44,969 [INFO] Argument:335 - Argument : FIFOThresholdvalue: null
+2024-05-26 07:42:44,969 [INFO] Argument:325 - Argument : MemBurstvalue: null
+2024-05-26 07:42:44,969 [INFO] Argument:335 - Argument : MemBurstvalue: null
+2024-05-26 07:42:44,969 [INFO] Argument:325 - Argument : PeriphBurstvalue: null
+2024-05-26 07:42:44,969 [INFO] Argument:335 - Argument : PeriphBurstvalue: null
+2024-05-26 07:42:44,969 [INFO] Argument:325 - Argument : Lockvalue: null
+2024-05-26 07:42:44,969 [INFO] Argument:335 - Argument : Lockvalue: null
+2024-05-26 07:42:44,969 [INFO] Argument:325 - Argument : Statevalue: null
+2024-05-26 07:42:44,969 [INFO] Argument:335 - Argument : Statevalue: null
+2024-05-26 07:42:44,969 [INFO] Argument:325 - Argument : Parentvalue: null
+2024-05-26 07:42:44,970 [INFO] Argument:335 - Argument : Parentvalue: null
+2024-05-26 07:42:44,970 [INFO] Argument:325 - Argument : XferCpltCallbackvalue: null
+2024-05-26 07:42:44,970 [INFO] Argument:335 - Argument : XferCpltCallbackvalue: null
+2024-05-26 07:42:44,970 [INFO] Argument:325 - Argument : XferHalfCpltCallbackvalue: null
+2024-05-26 07:42:44,970 [INFO] Argument:335 - Argument : XferHalfCpltCallbackvalue: null
+2024-05-26 07:42:44,970 [INFO] Argument:325 - Argument : XferM1CpltCallbackvalue: null
+2024-05-26 07:42:44,970 [INFO] Argument:335 - Argument : XferM1CpltCallbackvalue: null
+2024-05-26 07:42:44,970 [INFO] Argument:325 - Argument : XferErrorCallbackvalue: null
+2024-05-26 07:42:44,970 [INFO] Argument:335 - Argument : XferErrorCallbackvalue: null
+2024-05-26 07:42:44,970 [INFO] Argument:325 - Argument : ErrorCodevalue: null
+2024-05-26 07:42:44,970 [INFO] Argument:335 - Argument : ErrorCodevalue: null
+2024-05-26 07:42:45,706 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\license.tmp_save
+2024-05-26 07:42:46,379 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\license.tmp
+2024-05-26 07:42:46,554 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\gpio.tmp_save
+2024-05-26 07:42:47,058 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\gpio.tmp
+2024-05-26 07:42:47,411 [WARN] IPConfigManager:2946 - Warning: the RefConfig PWREx_EnableUSBVoltageDetector is not available in your config.xml file
+2024-05-26 07:42:47,439 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\usb_otg_fs_vars.tmp_save
+2024-05-26 07:42:47,945 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\usb_otg_fs_vars.tmp
+2024-05-26 07:42:47,963 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\usb_otg_fs_inc.tmp_save
+2024-05-26 07:42:48,203 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\usb_otg_fs_inc.tmp
+2024-05-26 07:42:48,219 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\usb_otg_fs_HalInit.tmp_save
+2024-05-26 07:42:48,595 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\usb_otg_fs_HalInit.tmp
+2024-05-26 07:42:48,607 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\usb_otg_fs_Msp.tmp_save
+2024-05-26 07:42:48,941 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\usb_otg_fs_Msp.tmp
+2024-05-26 07:42:52,460 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-05-26 07:42:52,492 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_inc.tmp_save
+2024-05-26 07:42:53,626 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_inc.tmp
+2024-05-26 07:42:53,642 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_vars.tmp_save
+2024-05-26 07:42:53,929 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_vars.tmp
+2024-05-26 07:42:53,946 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_pfp.tmp_save
+2024-05-26 07:42:54,231 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_pfp.tmp
+2024-05-26 07:42:54,247 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_obj_creat.tmp_save
+2024-05-26 07:42:54,603 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_obj_creat.tmp
+2024-05-26 07:42:54,620 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_kernelStart.tmp_save
+2024-05-26 07:42:54,906 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_kernelStart.tmp
+2024-05-26 07:42:54,923 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_default_thread.tmp_save
+2024-05-26 07:42:55,154 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_default_thread.tmp
+2024-05-26 07:42:55,173 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_threads.tmp_save
+2024-05-26 07:42:55,358 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_threads.tmp
+2024-05-26 07:42:55,376 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-05-26 07:42:55,395 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_HalInit.tmp_save
+2024-05-26 07:42:55,849 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_HalInit.tmp
+2024-05-26 07:42:55,865 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_vars.tmp_save
+2024-05-26 07:42:56,121 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_vars.tmp
+2024-05-26 07:42:56,139 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_ext_vars.tmp_save
+2024-05-26 07:42:56,371 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_ext_vars.tmp
+2024-05-26 07:42:56,382 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_inc.tmp_save
+2024-05-26 07:42:56,605 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_inc.tmp
+2024-05-26 07:42:56,616 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-05-26 07:42:56,662 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-05-26 07:42:56,690 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_inc.tmp_save
+2024-05-26 07:42:57,107 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_inc.tmp
+2024-05-26 07:42:57,124 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_vars.tmp_save
+2024-05-26 07:42:57,347 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_vars.tmp
+2024-05-26 07:42:57,370 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_pfp.tmp_save
+2024-05-26 07:42:57,590 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_pfp.tmp
+2024-05-26 07:42:57,657 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_obj_creat.tmp_save
+2024-05-26 07:42:57,861 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_obj_creat.tmp
+2024-05-26 07:42:57,880 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_kernelStart.tmp_save
+2024-05-26 07:42:58,094 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_kernelStart.tmp
+2024-05-26 07:42:58,142 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_default_thread.tmp_save
+2024-05-26 07:42:58,379 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_default_thread.tmp
+2024-05-26 07:42:58,401 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_threads.tmp_save
+2024-05-26 07:42:58,618 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\rtos_threads.tmp
+2024-05-26 07:42:58,676 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Inc\FreeRTOSConfig.h_save
+2024-05-26 07:42:58,996 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Inc\FreeRTOSConfig.h
+2024-05-26 07:42:59,070 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Src\freertos.c_save
+2024-05-26 07:42:59,301 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Src\freertos.c
+2024-05-26 07:42:59,478 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\dma.tmp_save
+2024-05-26 07:43:00,345 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\dma.tmp
+2024-05-26 07:43:00,411 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\dma_GV.tmp_save
+2024-05-26 07:43:00,920 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\dma_GV.tmp
+2024-05-26 07:43:00,932 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-05-26 07:43:00,981 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_HalInit.tmp_save
+2024-05-26 07:43:01,636 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_HalInit.tmp
+2024-05-26 07:43:01,659 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_vars.tmp_save
+2024-05-26 07:43:01,925 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_vars.tmp
+2024-05-26 07:43:01,945 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_ext_vars.tmp_save
+2024-05-26 07:43:02,210 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_ext_vars.tmp
+2024-05-26 07:43:02,239 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_inc.tmp_save
+2024-05-26 07:43:02,508 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\fatfs_inc.tmp
+2024-05-26 07:43:02,581 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\FATFS\Target\ffconf.h_save
+2024-05-26 07:43:03,060 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\FATFS\Target\ffconf.h
+2024-05-26 07:43:03,082 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\FATFS\Target\user_diskio.c_save
+2024-05-26 07:43:03,380 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\FATFS\Target\user_diskio.c
+2024-05-26 07:43:03,407 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\FATFS\Target\user_diskio.h_save
+2024-05-26 07:43:03,629 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\FATFS\Target\user_diskio.h
+2024-05-26 07:43:03,650 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\FATFS\App\fatfs.c_save
+2024-05-26 07:43:03,871 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\FATFS\App\fatfs.c
+2024-05-26 07:43:03,892 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\FATFS\App\fatfs.h_save
+2024-05-26 07:43:04,130 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\FATFS\App\fatfs.h
+2024-05-26 07:43:04,162 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\mx_fsmc_HC.tmp_save
+2024-05-26 07:43:04,643 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\mx_fsmc_HC.tmp
+2024-05-26 07:43:04,655 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\mx_fsmc_GV.tmp_save
+2024-05-26 07:43:04,879 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\mx_fsmc_GV.tmp
+2024-05-26 07:43:04,893 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\mx_fsmc_MSP.tmp_save
+2024-05-26 07:43:05,202 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\mx_fsmc_MSP.tmp
+2024-05-26 07:43:05,211 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-05-26 07:43:05,240 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\LIBJPEG\App\libjpeg.c_save
+2024-05-26 07:43:05,604 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\LIBJPEG\App\libjpeg.c
+2024-05-26 07:43:05,626 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\LIBJPEG\App\libjpeg.h_save
+2024-05-26 07:43:05,921 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\LIBJPEG\App\libjpeg.h
+2024-05-26 07:43:05,944 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\LIBJPEG\Target\jconfig.h_save
+2024-05-26 07:43:06,339 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\LIBJPEG\Target\jconfig.h
+2024-05-26 07:43:06,421 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\LIBJPEG\Target\jmorecfg.h_save
+2024-05-26 07:43:06,909 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\LIBJPEG\Target\jmorecfg.h
+2024-05-26 07:43:06,946 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\LIBJPEG\Target\jdata_conf.h_save
+2024-05-26 07:43:07,242 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\LIBJPEG\Target\jdata_conf.h
+2024-05-26 07:43:07,332 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\LIBJPEG\Target\jdata_conf.c_save
+2024-05-26 07:43:07,839 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\LIBJPEG\Target\jdata_conf.c
+2024-05-26 07:43:07,954 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\USB_HOST\App\usb_host.c_save
+2024-05-26 07:43:08,472 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\USB_HOST\App\usb_host.c
+2024-05-26 07:43:08,519 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\USB_HOST\App\usb_host.h_save
+2024-05-26 07:43:08,848 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\USB_HOST\App\usb_host.h
+2024-05-26 07:43:08,874 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\USB_HOST\Target\usbh_conf.h_save
+2024-05-26 07:43:09,264 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\USB_HOST\Target\usbh_conf.h
+2024-05-26 07:43:09,334 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\USB_HOST\Target\usbh_conf.c_save
+2024-05-26 07:43:10,363 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\USB_HOST\Target\usbh_conf.c
+2024-05-26 07:43:10,409 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\USB_HOST\Target\usbh_platform.c_save
+2024-05-26 07:43:11,011 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\USB_HOST\Target\usbh_platform.c
+2024-05-26 07:43:11,110 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\USB_HOST\Target\usbh_platform.h_save
+2024-05-26 07:43:11,507 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\USB_HOST\Target\usbh_platform.h
+2024-05-26 07:43:11,647 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Src\stm32f4xx_it.c_save
+2024-05-26 07:43:13,191 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Src\stm32f4xx_it.c
+2024-05-26 07:43:13,209 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Inc\stm32f4xx_it.h_save
+2024-05-26 07:43:13,533 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Inc\stm32f4xx_it.h
+2024-05-26 07:43:13,659 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\mx_fsmc_HC.tmp_save
+2024-05-26 07:43:13,971 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\mx_fsmc_HC.tmp
+2024-05-26 07:43:13,995 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\mx_fsmc_GV.tmp_save
+2024-05-26 07:43:14,258 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\mx_fsmc_GV.tmp
+2024-05-26 07:43:14,405 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\mx_fsmc_MSP.tmp_save
+2024-05-26 07:43:14,744 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\mx_fsmc_MSP.tmp
+2024-05-26 07:43:14,893 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Src\stm32f4xx_hal_msp.c_save
+2024-05-26 07:43:15,650 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Src\stm32f4xx_hal_msp.c
+2024-05-26 07:43:15,735 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\system.tmp_save
+2024-05-26 07:43:16,066 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\MXTmpFiles\system.tmp
+2024-05-26 07:43:16,241 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-05-26 07:43:16,827 [INFO] CodeEngine:335 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Inc\stm32f4xx_hal_conf.h
+2024-05-26 07:43:16,990 [WARN] IPConfigManager:3440 - IP not found : TIM
+2024-05-26 07:43:16,992 [WARN] CodeGenerator:3939 - IP not found : null
+2024-05-26 07:43:17,085 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Inc\main.h_save
+2024-05-26 07:43:17,644 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Inc\main.h
+2024-05-26 07:43:17,707 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Src\main.c_save
+2024-05-26 07:43:18,334 [INFO] CodeEngine:279 - Generated code: C:\Users\joshu\Desktop\DesktopFile\CAMERAProject\CMOS_Camera\Core\Src\main.c
+2024-05-26 07:43:22,514 [INFO] ProjectBuilder:3076 - Time for Copy HAL[1] : 2104mS.
+2024-05-26 07:43:22,605 [INFO] ProjectBuilder:4485 - Project Generator version: 4.2.0-B44
+2024-05-26 07:43:24,260 [INFO] ConfigFileManager:1495 - The Die is : DIE413
+2024-05-26 07:43:34,880 [INFO] ProjectBuilder:4747 - Time for Generating toolchain IDE Files: 12274mS.
+2024-05-26 07:43:34,884 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 2mS.
+2024-05-26 07:43:35,052 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 1mS.
+2024-05-26 07:53:42,665 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]

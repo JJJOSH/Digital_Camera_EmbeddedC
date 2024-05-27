@@ -1,0 +1,4 @@
+../Core/Src/uartTerminal/uartTerminal.c:30:5:uartTerminal_init	1
+../Core/Src/uartTerminal/uartTerminal.c:44:5:uartTerminal_send	2
+../Core/Src/uartTerminal/uartTerminal.c:55:9:uartTerminal_recv	2
+../Core/Src/uartTerminal/uartTerminal.c:64:5:uartTerminal_recvTry	2

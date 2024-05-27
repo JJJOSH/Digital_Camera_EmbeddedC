@@ -1,0 +1,4 @@
+../Core/Src/uartTerminal/uartTerminal.c:30:5:uartTerminal_init	16	static
+../Core/Src/uartTerminal/uartTerminal.c:44:5:uartTerminal_send	24	static
+../Core/Src/uartTerminal/uartTerminal.c:55:9:uartTerminal_recv	16	static
+../Core/Src/uartTerminal/uartTerminal.c:64:5:uartTerminal_recvTry	16	static
