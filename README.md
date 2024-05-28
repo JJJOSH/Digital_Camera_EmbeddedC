@@ -18,3 +18,8 @@ For this project to work with the STM32F407 discovery board, a configuration was
 ![camera](OV7670_Camera.jpeg)<br>
 3. 3.2inch ili9431 16Bits Display <br>
 ![display](3.2inch_ili9431_16Bits_Display.jpeg)<br>
+
+
+
+# Final Project Setup <br>
+![setupProject](Camera_Setup.jpg)
