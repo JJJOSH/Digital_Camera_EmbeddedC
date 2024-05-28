@@ -29,4 +29,6 @@ For this project to work with the STM32F407 discovery board, a configuration was
 
 # Result <br>
 
-![result](Camera_Prototyping_and_Testing.mp4)
+https://github.com/JJJOSH/Digital_Camera_EmbeddedC/assets/41205285/06543768-6293-41a0-a92e-66b4fc4a36f4
+
+
