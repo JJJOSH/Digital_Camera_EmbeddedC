@@ -26,3 +26,7 @@ For this project to work with the STM32F407 discovery board, a configuration was
 
 # Final Project Setup <br>
 ![setupProject](Camera_Setup.jpg)
+
+# Result <br>
+
+![result](Camera_Prototyping_and_Testing.mp4)
